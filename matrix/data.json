@@ -1,38 +1,54 @@
 {
   "companies": {
     "Apple": {
-      "latest_product": "MacBook Neo (Released Mar 2026), iPhone 17e (Pre-order)",
-      "news": "Mac mini sales surge attributed to OpenClaw popularity. Rumors of 'iPhone Ultra' for folding model name."
+      "latest_product": "M4 iPad Air, MacBook Neo (Released Mar 2026), iPhone 17e (Pre-order)",
+      "news": "Mac mini sales surge due to OpenClaw. Rumors of 'iPhone Ultra' for folding model name. iOS 26.4 features coming soon."
     },
     "NVIDIA": {
       "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra (GTC 2026)",
-      "news": "ABB Robotics partnering with NVIDIA for digital twin sim-to-real gap narrowing."
+      "news": "Partnering with ABB Robotics for simulation; GTC 2026 kicks off Mar 16. Warning that Chinese rivals are disrupting the world."
     },
     "Huawei": {
-      "latest_product": "Mate 70 series, Mate X6, HarmonyOS NEXT",
-      "news": "Ongoing expansion of HarmonyOS ecosystem. Waiting for official 3/20 Spring Launch invitation."
+      "latest_product": "AI Computing Clusters, Mate 70 series, Mate X6, HarmonyOS NEXT",
+      "news": "HarmonyOS NEXT expansion. Preparing for Spring Launch (Predicted Mar 20). Global debut for AI computing clusters on Mar 2."
+    },
+    "Alibaba": {
+      "latest_product": "New AI Models (Qwen Series), AI Smart Glasses",
+      "news": "Launched AI-powered smart glasses. Kicking off new wave of AI competition with major model releases."
+    },
+    "ByteDance": {
+      "latest_product": "New AI Models (Doubao Series)",
+      "news": "Major AI model releases and increased competition in the Chinese market."
     },
     "Honor": {
-      "latest_product": "Magic V6 Foldable (Released Mar 10), MagicPad3 Pro (Android & Linux Dual OS)",
-      "news": "CEO confirms potential domestic sub-brand. 'Dragonfly' (龙虾) AI Agent matrix launched."
+      "latest_product": "Magic V6 Foldable (Mar 10), MagicPad 3 Pro (Dual OS), MagicPad 4 (Overseas)",
+      "news": "CEO confirms 85M sales goal. Launched 'Dragonfly' AI Agent matrix. Tablet PC-ification plan announced."
     },
-    "OPPO": {
-      "latest_product": "Find N6 (Global Launch Mar 17)",
-      "news": "Find N6 features foldable-first 1nit Eye Protection screens."
+    "Xiaomi": {
+      "latest_product": "Xiaomi 17 Series (Global), Xiaomi Vision Gran Turismo (Concept)",
+      "news": "Xiaomi 17 Series launched at MWC 2026. Vision GT concept car designer sketches revealed."
+    },
+    "NIO": {
+      "latest_product": "Shenji NX9031 (Chip), Second AI Chip (Tape-out)",
+      "news": "Achieved first quarterly profit (Q4 2025). 5nm Shenji chip in mass production."
     },
     "OpenAI": {
-      "latest_product": "GPT-5.4 (Released Mar 9)",
-      "news": "GPT-5.4 directly targets Anthropic's core markets. Robotics lead resigns over monitor/weapon concerns."
+      "latest_product": "GPT-5.4 (Mar 9)",
+      "news": "Directly competing with Anthropic. Acquired developer of OpenClaw (Peter Steinberger)."
     },
-    "Midea": {
-      "latest_product": "MevoX Home AI Agent",
-      "news": "Investing 60B RMB in AI and Embodied Intelligence over 3 years."
+    "Meta": {
+      "latest_product": "Moltbook (Acquired Mar 10)",
+      "news": "Acquired AI agent social network Moltbook; founders joining Meta Superintelligence Lab."
+    },
+    "Nintendo": {
+      "latest_product": "Switch 2 (Console), Yoshi's Incredible Encyclopedia (May 21)",
+      "news": "Yoshi game confirmed as Switch 2 title for May 2026."
     }
   },
   "upcoming_events": [
     {
       "date": "2026-03-16",
-      "event": "NVIDIA GTC 2026 (Day 1)",
+      "event": "NVIDIA GTC 2026 / Meta founders join MSL",
       "status": "Confirmed"
     },
     {
@@ -52,9 +68,14 @@
     },
     {
       "date": "2026-04-09",
-      "event": "Adobe AI Assistant Global Release",
+      "event": "Adobe AI Assistant / Photoshop AI Beta End",
+      "status": "Confirmed"
+    },
+    {
+      "date": "2026-05-21",
+      "event": "Nintendo Yoshi's Incredible Encyclopedia Launch (Switch 2)",
       "status": "Confirmed"
     }
   ],
-  "last_updated": "2026-03-10 23:20"
+  "last_updated": "2026-03-11 01:03"
 }
