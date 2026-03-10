@@ -80,28 +80,28 @@ def add_event_to_calendar(summary, dt, dt_end, description=""):
 def main():
     events = [
         {
-            "summary": "荣耀 Magic V6 新机发布会",
-            "start": "2026-03-10 14:30:00",
-            "end": "2026-03-10 16:30:00",
-            "description": "荣耀 Magic V6 新机发布会。"
-        },
-        {
             "summary": "NVIDIA GTC 2026 Keynote (Jensen Huang)",
             "start": "2026-03-17 02:00:00",
             "end": "2026-03-17 04:00:00",
-            "description": "NVIDIA 官网官宣：March 16, 11 a.m. PT (北京时间 3/17 凌晨 2点)。地点：SAP Center。"
+            "description": "NVIDIA 官网官宣。链接：https://www.nvidia.com/en-us/gtc/keynote/ (北京时间 3/17 凌晨 2点)"
+        },
+        {
+            "summary": "荣耀 Magic V6 新机发布会",
+            "start": "2026-03-10 14:30:00",
+            "end": "2026-03-10 16:30:00",
+            "description": "荣耀官网官宣。链接：https://www.honor.com/cn/news/"
         },
         {
             "summary": "Oppo Find N6 全球发布会 (预计)",
             "start": "2026-03-17 14:30:00",
             "end": "2026-03-17 16:30:00",
-            "description": "来源：小红书/数码博主汇总。注：OPPO 官方新闻稿尚未正式发布带日期的海报，标记为预计。"
+            "description": "来源：小红书/数码博主汇总。链接：http://xhslink.com/o/46FRbbwM999"
         },
         {
             "summary": "华为春季新品发布会 (博主爆料)",
             "start": "2026-03-20 14:30:00",
             "end": "2026-03-20 17:00:00",
-            "description": "来源：小红书 @小苏数码速报。核心看点：Mate 80 Air, 畅享 90。注：华为官网尚未上线该活动专题。"
+            "description": "来源：小红书 @小苏数码速报。链接：http://xhslink.com/o/4pLrsmcp5z9"
         },
         {
             "summary": "Vivo X300 Ultra/X300s 发布会 (预计)",
