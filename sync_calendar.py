@@ -116,6 +116,24 @@ def main():
             "description": "新机发布会，具体日期以官宣为准。"
         },
         {
+            "summary": "Microsoft GDC 2026 Keynote",
+            "start": "2026-03-18 10:00:00",
+            "end": "2026-03-18 12:00:00",
+            "description": "Building for the Future with Xbox. Focus on next-gen hardware/handheld hints."
+        },
+        {
+            "summary": "Google I/O 2026 (预计)",
+            "start": "2026-05-12 10:00:00",
+            "end": "2026-05-12 13:00:00",
+            "description": "Google 年度开发者大会，重点关注 Android 17 和 AI 进展。"
+        },
+        {
+            "summary": "Apple WWDC 2026 (预计)",
+            "start": "2026-06-08 10:00:00",
+            "end": "2026-06-08 13:00:00",
+            "description": "Apple 年度开发者大会，iOS 20, macOS Tahoe 首秀。"
+        },
+        {
             "summary": "一加 15T 新机发布会 (预计)",
             "start": "2026-03-31 14:30:00",
             "end": "2026-03-31 16:30:00",
