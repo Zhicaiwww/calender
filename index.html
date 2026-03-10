@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Giant Product Matrix</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        body { font-family: -apple-system, sans-serif; background: #f4f7f6; padding: 20px; }
+        #main { width: 100%; height: 600px; background: white; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .header { text-align: center; margin-bottom: 30px; }
+        @media screen and (max-width: 600px) { #main { height: 400px; } }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚀 科技巨头产品矩阵 (Charles 实时监测)</h1>
+        <p>宏观展示当前主流科技公司的核心产品分布</p>
+    </div>
+    <div id="main"></div>
+    <script>
+        var chartDom = document.getElementById('main');
+        var myChart = echarts.init(chartDom);
+        var option;
+
+        fetch('data.json')
+            .then(res => res.json())
+            .then(data => {
+                const companies = Array.from(new Set(data.map(i => i.company)));
+                const layers = Array.from(new Set(data.map(i => i.layer)));
+                
+                option = {
+                    tooltip: { position: 'top' },
+                    grid: { height: '50%', top: '10%' },
+                    xAxis: { type: 'category', data: companies, splitArea: { show: true } },
+                    yAxis: { type: 'category', data: layers, splitArea: { show: true } },
+                    visualMap: { min: 0, max: 10, show: false },
+                    series: [{
+                        name: 'Product',
+                        type: 'heatmap',
+                        data: data.map(i => [companies.indexOf(i.company), layers.indexOf(i.layer), 1]),
+                        label: { show: true, formatter: (p) => {
+                            const item = data.find(d => d.company === companies[p.value[0]] && d.layer === layers[p.value[1]]);
+                            return item ? item.product : '';
+                        }},
+                        emphasis: { itemStyle: { shadowBlur: 10, shadowColor: 'rgba(0, 0, 0, 0.5)' } }
+                    }]
+                };
+                myChart.setOption(option);
+            });
+    </script>
+</body>
+</html>
