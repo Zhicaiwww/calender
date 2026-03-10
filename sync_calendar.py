@@ -80,6 +80,12 @@ def add_event_to_calendar(summary, dt, dt_end, description=""):
 def main():
     events = [
         {
+            "summary": "荣耀 Magic V6 新机发布会",
+            "start": "2026-03-10 14:30:00",
+            "end": "2026-03-10 16:30:00",
+            "description": "荣耀 Magic V6 新机发布会。"
+        },
+        {
             "summary": "NVIDIA GTC 2026 Keynote (Jensen Huang)",
             "start": "2026-03-16 09:00:00",
             "end": "2026-03-16 11:00:00",
@@ -92,16 +98,28 @@ def main():
             "description": "Global launch of Oppo flagship foldable Find N6."
         },
         {
-            "summary": "Huawei Spring Launch 2026 (Expected)",
-            "start": "2026-03-24 14:30:00",
-            "end": "2026-03-24 17:00:00",
-            "description": "Expected launch of Mate 80 series and new wearables. Date based on rumors."
+            "summary": "Vivo X300 Ultra/X300s 发布会 (预计)",
+            "start": "2026-03-20 14:30:00",
+            "end": "2026-03-20 16:30:00",
+            "description": "新机发布会，具体日期以官宣为准。"
         },
         {
-            "summary": "NVIDIA GTC 2026 Special Panel",
-            "start": "2026-03-18 12:30:00",
-            "end": "2026-03-18 14:00:00",
-            "description": "Open Models panel moderated by Jensen Huang."
+            "summary": "华为春季新品发布会 (预计)",
+            "start": "2026-03-24 14:30:00",
+            "end": "2026-03-24 17:00:00",
+            "description": "预计发布 Mate 80 系列和新款穿戴设备。"
+        },
+        {
+            "summary": "iQOO Z11 系列发布 (预计)",
+            "start": "2026-03-27 14:00:00",
+            "end": "2026-03-27 16:00:00",
+            "description": "新机发布会，具体日期以官宣为准。"
+        },
+        {
+            "summary": "一加 15T 新机发布会 (预计)",
+            "start": "2026-03-31 14:30:00",
+            "end": "2026-03-31 16:30:00",
+            "description": "新机发布会，具体日期以官宣为准。"
         }
     ]
     
