@@ -1,20 +1,20 @@
 {
   "companies": {
     "Apple": {
-      "latest_product": "M4 iPad Air, MacBook Neo (Released Mar 2026), iPhone 17e (Pre-order)",
-      "news": "Mac mini sales surge due to OpenClaw. Rumors of 'iPhone Ultra' for folding model name. iOS 26.4 features coming soon."
+      "latest_product": "M4 iPad Air, MacBook Neo (Released Mar 2026), iPhone 17e (Pre-order), M5 MacBook Pro (Rumored)",
+      "news": "Apple week of announcements (Mar 4) included iPhone 17e, new iPad, and MacBook Neo. Rumors of M5 MacBook Pro and budget MacBook under $1,000."
     },
     "NVIDIA": {
       "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra (GTC 2026)",
-      "news": "Partnering with ABB Robotics for simulation; GTC 2026 kicks off Mar 16. Warning that Chinese rivals are disrupting the world."
+      "news": "GTC 2026 kicks off Mar 16. Warning that Chinese rivals are disrupting the market with domestic AI chips."
     },
     "Huawei": {
-      "latest_product": "AI Computing Clusters, Mate 70 series, Mate X6, HarmonyOS NEXT",
-      "news": "HarmonyOS NEXT expansion. Preparing for Spring Launch (Predicted Mar 20). Global debut for AI computing clusters on Mar 2."
+      "latest_product": "AI Computing Clusters, Mate 70 series, Mate X6, HarmonyOS NEXT, Smart Glasses",
+      "news": "Launched AI-powered smart glasses. Global debut for AI computing clusters on Mar 2. Spring Launch predicted Mar 20."
     },
     "Alibaba": {
       "latest_product": "New AI Models (Qwen Series), AI Smart Glasses",
-      "news": "Launched AI-powered smart glasses. Kicking off new wave of AI competition with major model releases."
+      "news": "Launched AI-powered smart glasses. Open-sourcing robust AI technology to compete globally."
     },
     "ByteDance": {
       "latest_product": "New AI Models (Doubao Series)",
@@ -25,8 +25,8 @@
       "news": "CEO confirms 85M sales goal. Launched 'Dragonfly' AI Agent matrix. Tablet PC-ification plan announced."
     },
     "Xiaomi": {
-      "latest_product": "Xiaomi 17 Series (Global), Xiaomi Vision Gran Turismo (Concept)",
-      "news": "Xiaomi 17 Series launched at MWC 2026. Vision GT concept car designer sketches revealed."
+      "latest_product": "Xiaomi 17 Series (Global), AI Smart Glasses",
+      "news": "Xiaomi 17 Series launched at MWC 2026. Also entered the AI smart glasses market alongside Alibaba and Huawei."
     },
     "NIO": {
       "latest_product": "Shenji NX9031 (Chip), Second AI Chip (Tape-out)",
@@ -77,5 +77,5 @@
       "status": "Confirmed"
     }
   ],
-  "last_updated": "2026-03-11 01:03"
+  "last_updated": "2026-03-11 07:15"
 }
