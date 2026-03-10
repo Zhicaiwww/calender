@@ -1,37 +1,25 @@
-[
-  {
-    "company": "Apple",
-    "layer": "Terminal Device",
-    "product": "iPhone 17 Pro",
-    "details": "A19 Pro chip, 48MP cameras, Ceramic Shield 2.",
-    "competitor": "Samsung S26, Huawei Mate 80"
+{
+  "companies": {
+    "Apple": {
+      "latest_product": "iPhone 17 Pro (Expected Sep 2025), iPad Air 6 (Mar 2026 Expected)",
+      "news": "Rumors of M5 chip development and folding iPad prototype."
+    },
+    "NVIDIA": {
+      "latest_product": "RTX 50-series Blackwell GPUs",
+      "news": "GTC 2026 focusing on Blackwell Ultra and next-gen AI networking."
+    },
+    "Huawei": {
+      "latest_product": "Mate 70 series, Mate X6",
+      "news": "HarmonyOS NEXT expansion and upcoming spring product launch."
+    },
+    "ByteDance": {
+      "latest_product": "Doubao AI models, Pico 4S",
+      "news": "Focusing on AI video generation and cloud infrastructure in SE Asia."
+    },
+    "Alibaba": {
+      "latest_product": "Qwen-2.5 Large Language Models",
+      "news": "Integrating AI across e-commerce platforms and cloud expansion."
+    }
   },
-  {
-    "company": "NVIDIA",
-    "layer": "Infrastructure/Compute",
-    "product": "Blackwell B200",
-    "details": "Next-gen AI GPU for multi-trillion parameter models.",
-    "competitor": "AMD Instinct MI350, Intel Gaudi 3"
-  },
-  {
-    "company": "Alibaba",
-    "layer": "AI/LLM",
-    "product": "Qwen 2.5",
-    "details": "Open-source frontier LLM, strong coding/math capabilities.",
-    "competitor": "Llama 3, GPT-4o"
-  },
-  {
-    "company": "Huawei",
-    "layer": "Infrastructure/Compute",
-    "product": "Ascend 910C",
-    "details": "High-performance AI processor for data centers.",
-    "competitor": "NVIDIA H100"
-  },
-  {
-    "company": "ByteDance",
-    "layer": "AI/LLM",
-    "product": "Doubao (豆包)",
-    "details": "Native AI application and foundational models.",
-    "competitor": "ChatGPT, Kimi"
-  }
-]
+  "last_updated": "2026-03-10"
+}
