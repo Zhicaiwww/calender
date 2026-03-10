@@ -107,7 +107,7 @@ def main():
             "summary": "华为春季新品发布会 (预计)",
             "start": "2026-03-24 14:30:00",
             "end": "2026-03-24 17:00:00",
-            "description": "预计发布 Mate 80 系列和新款穿戴设备。"
+            "description": "预计发布 Pura 系列新机（Pura 80?）及新款小折叠 Pocket 系列。"
         },
         {
             "summary": "iQOO Z11 系列发布 (预计)",

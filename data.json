@@ -44,9 +44,16 @@
   {
     "company": "Huawei",
     "layer": "Terminal Device",
-    "product": "Mate 80 Series",
-    "details": "Flagship smartphone, rumored launch Spring 2026.",
-    "competitor": "iPhone 17 Pro"
+    "product": "Pura 80 Series",
+    "details": "Next-gen photography flagship, expected March 2026.",
+    "competitor": "iPhone 17 Pro, Xiaomi 16 Ultra"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Terminal Device",
+    "product": "Pocket 系列新机 (小折叠)",
+    "details": "Fashionable flip-style foldable, rumored Spring 2026.",
+    "competitor": "Samsung Z Flip 7"
   },
   {
     "company": "Huawei",
