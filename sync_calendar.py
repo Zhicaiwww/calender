@@ -98,16 +98,16 @@ def main():
             "description": "Global launch of Oppo flagship foldable Find N6."
         },
         {
-            "summary": "Vivo X300 Ultra/X300s 发布会 (预计)",
+            "summary": "华为春季新品发布会 (官宣提前)",
             "start": "2026-03-20 14:30:00",
-            "end": "2026-03-20 16:30:00",
-            "description": "新机发布会，具体日期以官宣为准。"
+            "end": "2026-03-20 17:00:00",
+            "description": "官宣提前！核心看点：Mate 80 Air (7.02寸大屏/麒麟9030), 畅享 90 系列。注：Pura X2 延期至 4 月。"
         },
         {
-            "summary": "华为春季新品发布会 (预计)",
-            "start": "2026-03-24 14:30:00",
-            "end": "2026-03-24 17:00:00",
-            "description": "预计发布 Pura 系列新机（Pura 80?）及新款小折叠 Pocket 系列。"
+            "summary": "Vivo X300 Ultra/X300s 发布会 (预计)",
+            "start": "2026-03-22 14:30:00",
+            "end": "2026-03-22 16:30:00",
+            "description": "新机发布会，避开华为锋芒，日期小幅调整预估。"
         },
         {
             "summary": "iQOO Z11 系列发布 (预计)",

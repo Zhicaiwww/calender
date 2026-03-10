@@ -44,16 +44,23 @@
   {
     "company": "Huawei",
     "layer": "Terminal Device",
-    "product": "Pura 80 Series",
-    "details": "Next-gen photography flagship, expected March 2026.",
-    "competitor": "iPhone 17 Pro, Xiaomi 16 Ultra"
+    "product": "Mate 80 Air",
+    "details": "7.02 inch OLED, Kirin 9030, flagship performance. Launch March 20, 2026.",
+    "competitor": "iPhone 17 Pro Max, Samsung S26 Ultra"
   },
   {
     "company": "Huawei",
     "layer": "Terminal Device",
-    "product": "Pocket 系列新机 (小折叠)",
-    "details": "Fashionable flip-style foldable, rumored Spring 2026.",
-    "competitor": "Samsung Z Flip 7"
+    "product": "畅享 90 系列",
+    "details": "Entry-level, large battery, high value. Launch March 20, 2026.",
+    "competitor": "Redmi Note 15, Honor X70"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Terminal Device",
+    "product": "Pura X2 (Foldable)",
+    "details": "Next-gen foldable, delayed to April 2026.",
+    "competitor": "Oppo Find N6, Galaxy Z Fold 7"
   },
   {
     "company": "Huawei",
