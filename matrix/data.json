@@ -1,25 +1,60 @@
 {
   "companies": {
     "Apple": {
-      "latest_product": "iPhone 17 Pro (Expected Sep 2025), iPad Air 6 (Mar 2026 Expected)",
-      "news": "Rumors of M5 chip development and folding iPad prototype."
+      "latest_product": "MacBook Neo (Released Mar 2026), iPhone 17e (Pre-order)",
+      "news": "Mac mini sales surge attributed to OpenClaw popularity. Rumors of 'iPhone Ultra' for folding model name."
     },
     "NVIDIA": {
-      "latest_product": "RTX 50-series Blackwell GPUs",
-      "news": "GTC 2026 focusing on Blackwell Ultra and next-gen AI networking."
+      "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra (GTC 2026)",
+      "news": "ABB Robotics partnering with NVIDIA for digital twin sim-to-real gap narrowing."
     },
     "Huawei": {
-      "latest_product": "Mate 70 series, Mate X6",
-      "news": "HarmonyOS NEXT expansion and upcoming spring product launch."
+      "latest_product": "Mate 70 series, Mate X6, HarmonyOS NEXT",
+      "news": "Ongoing expansion of HarmonyOS ecosystem. Waiting for official 3/20 Spring Launch invitation."
     },
-    "ByteDance": {
-      "latest_product": "Doubao AI models, Pico 4S",
-      "news": "Focusing on AI video generation and cloud infrastructure in SE Asia."
+    "Honor": {
+      "latest_product": "Magic V6 Foldable (Released Mar 10), MagicPad3 Pro (Android & Linux Dual OS)",
+      "news": "CEO confirms potential domestic sub-brand. 'Dragonfly' (龙虾) AI Agent matrix launched."
     },
-    "Alibaba": {
-      "latest_product": "Qwen-2.5 Large Language Models",
-      "news": "Integrating AI across e-commerce platforms and cloud expansion."
+    "OPPO": {
+      "latest_product": "Find N6 (Global Launch Mar 17)",
+      "news": "Find N6 features foldable-first 1nit Eye Protection screens."
+    },
+    "OpenAI": {
+      "latest_product": "GPT-5.4 (Released Mar 9)",
+      "news": "GPT-5.4 directly targets Anthropic's core markets. Robotics lead resigns over monitor/weapon concerns."
+    },
+    "Midea": {
+      "latest_product": "MevoX Home AI Agent",
+      "news": "Investing 60B RMB in AI and Embodied Intelligence over 3 years."
     }
   },
-  "last_updated": "2026-03-10"
+  "upcoming_events": [
+    {
+      "date": "2026-03-16",
+      "event": "NVIDIA GTC 2026 (Day 1)",
+      "status": "Confirmed"
+    },
+    {
+      "date": "2026-03-17",
+      "event": "OPPO Find N6 Global Launch",
+      "status": "Confirmed"
+    },
+    {
+      "date": "2026-03-20",
+      "event": "Huawei Spring Product Launch",
+      "status": "Leaked/Predicted"
+    },
+    {
+      "date": "2026-03-26",
+      "event": "DJI New Product Launch",
+      "status": "Confirmed"
+    },
+    {
+      "date": "2026-04-09",
+      "event": "Adobe AI Assistant Global Release",
+      "status": "Confirmed"
+    }
+  ],
+  "last_updated": "2026-03-10 23:20"
 }
