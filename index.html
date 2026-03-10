@@ -1,53 +1,90 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Giant Product Matrix</title>
-    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <title>Charles Tech Matrix 2026</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { font-family: -apple-system, sans-serif; background: #f4f7f6; padding: 20px; }
-        #main { width: 100%; height: 600px; background: white; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
-        .header { text-align: center; margin-bottom: 30px; }
-        @media screen and (max-width: 600px) { #main { height: 400px; } }
+        .mermaid-container { background: #f8fafc; border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
+        .product-card { transition: transform 0.2s; }
+        .product-card:hover { transform: translateY(-5px); }
     </style>
 </head>
-<body>
-    <div class="header">
-        <h1>🚀 科技巨头产品矩阵 (Charles 实时监测)</h1>
-        <p>宏观展示当前主流科技公司的核心产品分布</p>
-    </div>
-    <div id="main"></div>
-    <script>
-        var chartDom = document.getElementById('main');
-        var myChart = echarts.init(chartDom);
-        var option;
+<body class="bg-gray-100 font-sans text-gray-900">
+    <div class="max-w-6xl mx-auto px-4 py-8">
+        <header class="mb-12 text-center">
+            <h1 class="text-4xl font-extrabold text-indigo-600 mb-2">🐾 Charles Tech Matrix 2026</h1>
+            <p class="text-gray-600">实时科技发布会时间轴 & 产品战略地图</p>
+            <div id="last-update" class="text-xs text-gray-400 mt-4">最后更新: 2026-03-10 23:25</div>
+        </header>
 
-        fetch('data.json')
-            .then(res => res.json())
-            .then(data => {
-                const companies = Array.from(new Set(data.map(i => i.company)));
-                const layers = Array.from(new Set(data.map(i => i.layer)));
-                
-                option = {
-                    tooltip: { position: 'top' },
-                    grid: { height: '50%', top: '10%' },
-                    xAxis: { type: 'category', data: companies, splitArea: { show: true } },
-                    yAxis: { type: 'category', data: layers, splitArea: { show: true } },
-                    visualMap: { min: 0, max: 10, show: false },
-                    series: [{
-                        name: 'Product',
-                        type: 'heatmap',
-                        data: data.map(i => [companies.indexOf(i.company), layers.indexOf(i.layer), 1]),
-                        label: { show: true, formatter: (p) => {
-                            const item = data.find(d => d.company === companies[p.value[0]] && d.layer === layers[p.value[1]]);
-                            return item ? item.product : '';
-                        }},
-                        emphasis: { itemStyle: { shadowBlur: 10, shadowColor: 'rgba(0, 0, 0, 0.5)' } }
-                    }]
-                };
-                myChart.setOption(option);
-            });
+        <!-- Section 1: Timeline -->
+        <section class="mb-16">
+            <h2 class="text-2xl font-bold mb-6 flex items-center">
+                <span class="mr-2">📅</span> 发布会时间轴 (Gantt)
+            </h2>
+            <div class="mermaid mermaid-container">
+            gantt
+                title 2026年3月-5月 关键发布节点
+                dateFormat  YYYY-MM-DD
+                axisFormat  %m-%d
+                section 软件与AI
+                GPT-5.4 (OpenAI)        :done, des1, 2026-03-09, 1d
+                龙虾智能体 (荣耀)        :done, des2, 2026-03-10, 1d
+                PS AI 助手正式版         :active, des3, 2026-04-09, 2026-04-09
+                section 硬件发布
+                荣耀 Magic V6 发布      :done, h1, 2026-03-10, 1d
+                NVIDIA GTC 2026         :active, h2, 2026-03-16, 2026-03-19
+                OPPO Find N6 首发       :h3, 2026-03-17, 1d
+                华为春季新品 (预计)      :crit, h4, 2026-03-20, 1d
+                大疆新品发布会          :h5, 2026-03-26, 1d
+                任天堂 Switch 2 护航作  :h6, 2026-05-21, 1d
+            </div>
+        </section>
+
+        <!-- Section 2: Strategic Matrix (Mobile friendly list) -->
+        <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="product-card bg-white p-6 rounded-xl border-l-4 border-blue-500 shadow-sm">
+                <h3 class="font-bold text-lg mb-2">Apple (苹果)</h3>
+                <p class="text-sm text-gray-600 mb-4">iPhone Air, MacBook Neo</p>
+                <span class="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">端侧 AI / 消费电子</span>
+            </div>
+            <div class="product-card bg-white p-6 rounded-xl border-l-4 border-green-500 shadow-sm">
+                <h3 class="font-bold text-lg mb-2">NVIDIA (英伟达)</h3>
+                <p class="text-sm text-gray-600 mb-4">Blackwell Ultra, CUDA-X</p>
+                <span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded">AI 算力 / 物理 AI</span>
+            </div>
+            <div class="product-card bg-white p-6 rounded-xl border-l-4 border-red-500 shadow-sm">
+                <h3 class="font-bold text-lg mb-2">Huawei (华为)</h3>
+                <p class="text-sm text-gray-600 mb-4">Mate 80 Pro, HarmonyOS PC</p>
+                <span class="bg-red-100 text-red-800 text-xs px-2 py-1 rounded">全栈自主 / 鸿蒙生态</span>
+            </div>
+            <div class="product-card bg-white p-6 rounded-xl border-l-4 border-purple-500 shadow-sm">
+                <h3 class="font-bold text-lg mb-2">OpenAI</h3>
+                <p class="text-sm text-gray-600 mb-4">GPT-5.4, Agentic Framework</p>
+                <span class="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded">前沿模型 / 智能体</span>
+            </div>
+            <div class="product-card bg-white p-6 rounded-xl border-l-4 border-orange-500 shadow-sm">
+                <h3 class="font-bold text-lg mb-2">Honor (荣耀)</h3>
+                <p class="text-sm text-gray-600 mb-4">Magic V6, 龙虾宇宙</p>
+                <span class="bg-orange-100 text-orange-800 text-xs px-2 py-1 rounded">折叠屏 / 养虾生态</span>
+            </div>
+            <div class="product-card bg-white p-6 rounded-xl border-l-4 border-indigo-500 shadow-sm">
+                <h3 class="font-bold text-lg mb-2">Nintendo (任天堂)</h3>
+                <p class="text-sm text-gray-600 mb-4">Switch 2, Yoshi Library</p>
+                <span class="bg-indigo-100 text-indigo-800 text-xs px-2 py-1 rounded">娱乐终端 / 护航内容</span>
+            </div>
+        </section>
+
+        <footer class="mt-16 text-center text-gray-400 text-sm">
+            <p>Generated by 🐾 Charles Assistant | OpenClaw Intelligence Powered</p>
+        </footer>
+    </div>
+
+    <script>
+        mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
     </script>
 </body>
 </html>
