@@ -87,21 +87,21 @@ def main():
         },
         {
             "summary": "NVIDIA GTC 2026 Keynote (Jensen Huang)",
-            "start": "2026-03-16 09:00:00",
-            "end": "2026-03-16 11:00:00",
-            "description": "NVIDIA GTC San Jose 2026. Keynote at SAP Center."
+            "start": "2026-03-17 02:00:00",
+            "end": "2026-03-17 04:00:00",
+            "description": "NVIDIA 官网官宣：March 16, 11 a.m. PT (北京时间 3/17 凌晨 2点)。地点：SAP Center。"
         },
         {
-            "summary": "Oppo Find N6 Global Launch",
-            "start": "2026-03-17 14:00:00",
-            "end": "2026-03-17 16:00:00",
-            "description": "Global launch of Oppo flagship foldable Find N6."
+            "summary": "Oppo Find N6 全球发布会 (预计)",
+            "start": "2026-03-17 14:30:00",
+            "end": "2026-03-17 16:30:00",
+            "description": "来源：小红书/数码博主汇总。注：OPPO 官方新闻稿尚未正式发布带日期的海报，标记为预计。"
         },
         {
-            "summary": "华为春季新品发布会 (官宣提前)",
+            "summary": "华为春季新品发布会 (博主爆料)",
             "start": "2026-03-20 14:30:00",
             "end": "2026-03-20 17:00:00",
-            "description": "官宣提前！核心看点：Mate 80 Air (7.02寸大屏/麒麟9030), 畅享 90 系列。注：Pura X2 延期至 4 月。"
+            "description": "来源：小红书 @小苏数码速报。核心看点：Mate 80 Air, 畅享 90。注：华为官网尚未上线该活动专题。"
         },
         {
             "summary": "Vivo X300 Ultra/X300s 发布会 (预计)",
