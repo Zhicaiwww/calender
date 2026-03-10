@@ -86,6 +86,18 @@ def main():
             "description": "NVIDIA GTC San Jose 2026. Keynote at SAP Center."
         },
         {
+            "summary": "Oppo Find N6 Global Launch",
+            "start": "2026-03-17 14:00:00",
+            "end": "2026-03-17 16:00:00",
+            "description": "Global launch of Oppo flagship foldable Find N6."
+        },
+        {
+            "summary": "Huawei Spring Launch 2026 (Expected)",
+            "start": "2026-03-24 14:30:00",
+            "end": "2026-03-24 17:00:00",
+            "description": "Expected launch of Mate 80 series and new wearables. Date based on rumors."
+        },
+        {
             "summary": "NVIDIA GTC 2026 Special Panel",
             "start": "2026-03-18 12:30:00",
             "end": "2026-03-18 14:00:00",

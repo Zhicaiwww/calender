@@ -3,15 +3,85 @@
     "company": "Apple",
     "layer": "Terminal Device",
     "product": "iPhone 17 Pro",
-    "details": "A19 Pro chip, 48MP cameras, Ceramic Shield 2.",
+    "details": "A19 Pro chip, 48MP cameras, Ceramic Shield 2. Launched March 2026.",
     "competitor": "Samsung S26, Huawei Mate 80"
+  },
+  {
+    "company": "Apple",
+    "layer": "Terminal Device",
+    "product": "iPhone Air",
+    "details": "Thinnest iPhone ever, A19 Pro chip. Launched March 2026.",
+    "competitor": "iPad Pro, Ultra-thin Androids"
+  },
+  {
+    "company": "Apple",
+    "layer": "Wearables",
+    "product": "AirPods Pro 3",
+    "details": "Heart rate sensing, Live Translation, improved ANC. Launched March 2026.",
+    "competitor": "Sony WF-1000XM6"
+  },
+  {
+    "company": "Apple",
+    "layer": "Wearables",
+    "product": "Apple Watch Ultra 3",
+    "details": "Satellite comms, 5G, multiday battery. Launched March 2026.",
+    "competitor": "Garmin Epix, Huawei Watch Ultimate"
   },
   {
     "company": "NVIDIA",
     "layer": "Infrastructure/Compute",
     "product": "Blackwell B200",
-    "details": "Next-gen AI GPU for multi-trillion parameter models.",
-    "competitor": "AMD Instinct MI350, Intel Gaudi 3"
+    "details": "Next-gen AI GPU, flagship for 2025-2026.",
+    "competitor": "AMD MI350"
+  },
+  {
+    "company": "NVIDIA",
+    "layer": "Infrastructure/Compute",
+    "product": "NVIDIA Rubin",
+    "details": "Next-gen architecture after Blackwell (announced for 2026).",
+    "competitor": "AMD MI400"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Terminal Device",
+    "product": "Mate 80 Series",
+    "details": "Flagship smartphone, rumored launch Spring 2026.",
+    "competitor": "iPhone 17 Pro"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Terminal Device",
+    "product": "MatePad Pro 13.2 (2026)",
+    "details": "High-end tablet with NearLink technology.",
+    "competitor": "iPad Pro M4"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Wearables",
+    "product": "Huawei Watch GT 5",
+    "details": "Latest health-tracking smartwatch.",
+    "competitor": "Apple Watch Series 11"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Infrastructure/Compute",
+    "product": "Ascend 910C",
+    "details": "China's leading AI training chip, competing with H100.",
+    "competitor": "NVIDIA H100/H200"
+  },
+  {
+    "company": "Oppo",
+    "layer": "Terminal Device",
+    "product": "Find N6",
+    "details": "Global launch on March 17, 2026. Flagship foldable.",
+    "competitor": "Galaxy Z Fold 7"
+  },
+  {
+    "company": "Google",
+    "layer": "Terminal Device",
+    "product": "Pixel 11 Pro Fold",
+    "details": "Thinner design (10.1mm), leaked March 2026.",
+    "competitor": "iPhone Air, Oppo Find N6"
   },
   {
     "company": "Alibaba",
@@ -19,13 +89,6 @@
     "product": "Qwen 2.5",
     "details": "Open-source frontier LLM, strong coding/math capabilities.",
     "competitor": "Llama 3, GPT-4o"
-  },
-  {
-    "company": "Huawei",
-    "layer": "Infrastructure/Compute",
-    "product": "Ascend 910C",
-    "details": "High-performance AI processor for data centers.",
-    "competitor": "NVIDIA H100"
   },
   {
     "company": "ByteDance",
