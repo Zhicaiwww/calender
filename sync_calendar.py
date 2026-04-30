@@ -63,6 +63,18 @@ def main():
             "description": "Apple 年度开发者大会，iOS 20, macOS Tahoe 首秀。"
         },
         {
+            "summary": "NVIDIA Q1 FY2027 Financial Results Call",
+            "start": "2026-05-20 14:00:00",
+            "end": "2026-05-20 16:00:00",
+            "description": "NVIDIA will host a conference call on Wednesday, May 20, at 2 p.m. PT to discuss its financial results."
+        },
+        {
+            "summary": "The Mandalorian and Grogu Movie Release",
+            "start": "2026-05-22 00:00:00",
+            "end": "2026-05-22 23:59:59",
+            "description": "Star Wars movie hitting theaters."
+        },
+        {
             "summary": "一加 15T 新机发布会 (预计)",
             "start": "2026-03-31 14:30:00",
             "end": "2026-03-31 16:30:00",

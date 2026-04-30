@@ -1,81 +1,67 @@
 {
   "companies": {
     "Apple": {
-      "latest_product": "M4 iPad Air, MacBook Neo (Released Mar 2026), iPhone 17e (Pre-order), M5 MacBook Pro (Rumored)",
-      "news": "Apple week of announcements (Mar 4) included iPhone 17e, new iPad, and MacBook Neo. Rumors of M5 MacBook Pro and budget MacBook under $1,000."
+      "latest_product": "M4 iPad Air, MacBook Neo (Mar 2026), iPhone 17e",
+      "news": "Tim Cook transition to John Ternus as CEO announced. Strong H1 growth. Concerns over rising memory costs impacting future quarters."
     },
     "NVIDIA": {
-      "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra (GTC 2026)",
-      "news": "GTC 2026 kicks off Mar 16. Warning that Chinese rivals are disrupting the market with domestic AI chips."
+      "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra",
+      "news": "Q1 FY2027 financial results call scheduled for May 20, 2026. Focus on Blackwell demand and AI infrastructure."
     },
     "Huawei": {
-      "latest_product": "AI Computing Clusters, Mate 70 series, Mate X6, HarmonyOS NEXT, Smart Glasses",
-      "news": "Launched AI-powered smart glasses. Global debut for AI computing clusters on Mar 2. Spring Launch predicted Mar 20."
+      "latest_product": "Mate 70 series, Mate X6, HarmonyOS NEXT, AI Smart Glasses",
+      "news": "Expanding AI computing cluster global reach. Rumors of new Pura series updates in Q2."
     },
     "Alibaba": {
-      "latest_product": "New AI Models (Qwen Series), AI Smart Glasses",
-      "news": "Launched AI-powered smart glasses. Open-sourcing robust AI technology to compete globally."
+      "latest_product": "Qwen 2.5, AI Smart Glasses",
+      "news": "Heavy investment in open-source AI models and hardware integration (glasses)."
     },
     "ByteDance": {
-      "latest_product": "New AI Models (Doubao Series)",
-      "news": "Major AI model releases and increased competition in the Chinese market."
+      "latest_product": "Doubao-pro models, Roblox Reality photoreal upsampling (Partnership)",
+      "news": "Roblox CEO mentions photorealistic real-time video models at 2K 60Hz using cloud compute."
     },
     "Honor": {
-      "latest_product": "Magic V6 Foldable (Mar 10), MagicPad 3 Pro (Dual OS), MagicPad 4 (Overseas)",
-      "news": "CEO confirms 85M sales goal. Launched 'Dragonfly' AI Agent matrix. Tablet PC-ification plan announced."
+      "latest_product": "Magic V6 Foldable, MagicPad 3 Pro",
+      "news": "Pushing 'Dragonfly' AI Agent matrix across all devices."
     },
     "Xiaomi": {
-      "latest_product": "Xiaomi 17 Series (Global), AI Smart Glasses",
-      "news": "Xiaomi 17 Series launched at MWC 2026. Also entered the AI smart glasses market alongside Alibaba and Huawei."
+      "latest_product": "Xiaomi 17 Series, AI Smart Glasses",
+      "news": "Global expansion of the 17 series; strong focus on the automotive (SU7 Ultra) and wearable AI segments."
     },
-    "NIO": {
-      "latest_product": "Shenji NX9031 (Chip), Second AI Chip (Tape-out)",
-      "news": "Achieved first quarterly profit (Q4 2025). 5nm Shenji chip in mass production."
+    "Anthropic": {
+      "latest_product": "Claude Security (Opus 4.7)",
+      "news": "Launched Claude Security for enterprise codebase scanning; distinct from the high-power 'Mythos' model."
     },
     "OpenAI": {
-      "latest_product": "GPT-5.4 (Mar 9)",
-      "news": "Directly competing with Anthropic. Acquired developer of OpenClaw (Peter Steinberger)."
-    },
-    "Meta": {
-      "latest_product": "Moltbook (Acquired Mar 10)",
-      "news": "Acquired AI agent social network Moltbook; founders joining Meta Superintelligence Lab."
+      "latest_product": "GPT-5.4",
+      "news": "Ongoing legal battle with Elon Musk regarding for-profit transition and founding mission."
     },
     "Nintendo": {
-      "latest_product": "Switch 2 (Console), Yoshi's Incredible Encyclopedia (May 21)",
-      "news": "Yoshi game confirmed as Switch 2 title for May 2026."
+      "latest_product": "Switch 2 (Console), Yoshi's Incredible Encyclopedia",
+      "news": "Mandalorian movie tie-ins and Switch 2 launch titles expected in May/June."
     }
   },
   "upcoming_events": [
     {
-      "date": "2026-03-16",
-      "event": "NVIDIA GTC 2026 / Meta founders join MSL",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-03-17",
-      "event": "OPPO Find N6 Global Launch",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-03-20",
-      "event": "Huawei Spring Product Launch",
-      "status": "Leaked/Predicted"
-    },
-    {
-      "date": "2026-03-26",
-      "event": "DJI New Product Launch",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-04-09",
-      "event": "Adobe AI Assistant / Photoshop AI Beta End",
+      "date": "2026-05-20",
+      "event": "NVIDIA Q1 FY2027 Financial Results Call",
       "status": "Confirmed"
     },
     {
       "date": "2026-05-21",
       "event": "Nintendo Yoshi's Incredible Encyclopedia Launch (Switch 2)",
       "status": "Confirmed"
+    },
+    {
+      "date": "2026-05-22",
+      "event": "The Mandalorian and Grogu Movie Release",
+      "status": "Confirmed"
+    },
+    {
+      "date": "2026-06-08",
+      "event": "Apple WWDC 2026",
+      "status": "Predicted"
     }
   ],
-  "last_updated": "2026-03-11 07:15"
+  "last_updated": "2026-05-01 07:35"
 }
