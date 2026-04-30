@@ -67,6 +67,18 @@ def main():
             "start": "2026-03-31 14:30:00",
             "end": "2026-03-31 16:30:00",
             "description": "新机发布会，具体日期以官宣为准。"
+        },
+        {
+            "summary": "大疆 Osmo Pocket 4 系列发布会",
+            "start": "2026-04-16 20:00:00",
+            "end": "2026-04-16 22:00:00",
+            "description": "大疆官网官宣。链接：https://www.ithome.com/0/938/743.htm"
+        },
+        {
+            "summary": "OPPO Pad 5 Pro 全球首发",
+            "start": "2026-04-21 19:00:00",
+            "end": "2026-04-21 21:00:00",
+            "description": "OPPO 官网官宣。链接：https://www.ithome.com/0/938/733.htm"
         }
     ]
     
