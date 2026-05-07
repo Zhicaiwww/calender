@@ -2,7 +2,7 @@
   "companies": {
     "Apple": {
       "latest_product": "M4 iPad Air, MacBook Neo (Mar 2026), iPhone 17e",
-      "news": "Tim Cook transition to John Ternus as CEO announced. Strong H1 growth. Concerns over rising memory costs impacting future quarters."
+      "news": "Supreme Court denied Apple's request to stay mandate in Epic Games battle regarding App Store fees. Tim Cook transition to John Ternus as CEO announced."
     },
     "NVIDIA": {
       "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra",
@@ -10,7 +10,7 @@
     },
     "Huawei": {
       "latest_product": "Mate 70 series, Mate X6, HarmonyOS NEXT, AI Smart Glasses",
-      "news": "Expanding AI computing cluster global reach. Rumors of new Pura series updates in Q2."
+      "news": "Expanding AI computing cluster global reach. Rumors of new Pura series updates in Q2. Intensifying competition in China market causing rivals (like Samsung) to scale back TVs."
     },
     "Alibaba": {
       "latest_product": "Qwen 2.5, AI Smart Glasses",
@@ -18,7 +18,7 @@
     },
     "ByteDance": {
       "latest_product": "Doubao-pro models, Roblox Reality photoreal upsampling (Partnership)",
-      "news": "Roblox CEO mentions photorealistic real-time video models at 2K 60Hz using cloud compute."
+      "news": "Scaling back AI-powered video summaries on TikTok to focus on identifying products instead. Roblox partnership for 2K 60Hz video models ongoing."
     },
     "Honor": {
       "latest_product": "Magic V6 Foldable, MagicPad 3 Pro",
@@ -30,15 +30,19 @@
     },
     "Anthropic": {
       "latest_product": "Claude Security (Opus 4.7)",
-      "news": "Launched Claude Security for enterprise codebase scanning; distinct from the high-power 'Mythos' model."
+      "news": "Partnering with xAI (SpaceXAI) for compute. Launched Claude Security for enterprise codebase scanning."
     },
     "OpenAI": {
       "latest_product": "GPT-5.4",
-      "news": "Ongoing legal battle with Elon Musk regarding for-profit transition and founding mission."
+      "news": "Musk v. Altman legal proceedings revealing internal board conflicts regarding ChatGPT launch and Helion deal. xAI (SpaceXAI) compute partnership with Anthropic announced."
     },
     "Nintendo": {
       "latest_product": "Switch 2 (Console), Yoshi's Incredible Encyclopedia",
       "news": "Mandalorian movie tie-ins and Switch 2 launch titles expected in May/June."
+    },
+    "Samsung": {
+       "latest_product": "Galaxy S26 (One UI 8.5), Galaxy Ring",
+       "news": "Discontinuing TV sales in China due to domestic competition. Galaxy Ring 2 development reported with 10-day battery life (expected 2027)."
     }
   },
   "upcoming_events": [
@@ -58,10 +62,15 @@
       "status": "Confirmed"
     },
     {
+      "date": "2026-06-01",
+      "event": "Snap Specs / Intelligent Eyewear News",
+      "status": "Predicted"
+    },
+    {
       "date": "2026-06-08",
       "event": "Apple WWDC 2026",
       "status": "Predicted"
     }
   ],
-  "last_updated": "2026-05-06 15:43"
+  "last_updated": "2026-05-07 22:05"
 }
