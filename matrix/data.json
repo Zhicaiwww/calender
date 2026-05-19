@@ -1,8 +1,8 @@
 {
   "companies": {
     "Apple": {
-      "latest_product": "M4 iPad Air, MacBook Neo (Mar 2026), iPhone 17e",
-      "news": "Supreme Court denied Apple's request to stay mandate in Epic Games battle regarding App Store fees. Tim Cook transition to John Ternus as CEO announced."
+      "latest_product": "M4 iPad Air, MacBook Neo (Mar 2026), iPhone 17e, Apple Intelligence Accessibility features",
+      "news": "Apple announced Apple Intelligence powered accessibility feature updates. WWDC 2026 confirmed for June 9 (Beijing Time)."
     },
     "NVIDIA": {
       "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra",
@@ -10,23 +10,27 @@
     },
     "Huawei": {
       "latest_product": "Mate 70 series, Mate X6, HarmonyOS NEXT, AI Smart Glasses",
-      "news": "Expanding AI computing cluster global reach. Rumors of new Pura series updates in Q2. Intensifying competition in China market causing rivals (like Samsung) to scale back TVs."
+      "news": "Huawei Mate 80 and Pura 80 series confirmed to support 3D image wallpapers starting June."
     },
     "Alibaba": {
-      "latest_product": "Qwen 2.5, AI Smart Glasses",
-      "news": "Heavy investment in open-source AI models and hardware integration (glasses)."
+      "latest_product": "Qwen 2.5, AI Smart Glasses, Quark Cloud Drive (SVIP update)",
+      "news": "Quark Cloud Drive launched new SVIP subscription plans."
     },
     "ByteDance": {
       "latest_product": "Doubao-pro models, Roblox Reality photoreal upsampling (Partnership)",
-      "news": "Scaling back AI-powered video summaries on TikTok to focus on identifying products instead. Roblox partnership for 2K 60Hz video models ongoing."
+      "news": "Focusing on AI-integrated video and search experiences."
     },
     "Honor": {
-      "latest_product": "Magic V6 Foldable, MagicPad 3 Pro",
-      "news": "Pushing 'Dragonfly' AI Agent matrix across all devices."
+      "latest_product": "Robot Phone (Q3 2026), Magic V6 Foldable, MagicPad 3 Pro",
+      "news": "World's first 'Robot Phone' expected to launch in Q3. Pushing 'Dragonfly' AI Agent matrix."
     },
     "Xiaomi": {
-      "latest_product": "Xiaomi 17 Series, AI Smart Glasses",
-      "news": "Global expansion of the 17 series; strong focus on the automotive (SU7 Ultra) and wearable AI segments."
+      "latest_product": "Xiaomi 17 Max (8000mAh battery), Xiaomi YU7 GT (Nurburgring SUV record), AI Smart Glasses",
+      "news": "Xiaomi YU7 GT set a new Nurburgring SUV lap record. Xiaomi 17 Max features 8000mAh Jinshajiang battery."
+    },
+    "Google": {
+      "latest_product": "Gemini 3.5 Flash, Gemini 3.5 Pro (June 2026)",
+      "news": "Google I/O 2026 launched Gemini 3.5 Flash (4x faster than GPT-5.5). Gemini 3.5 Pro announced for June release."
     },
     "Anthropic": {
       "latest_product": "Claude Security (Opus 4.7)",

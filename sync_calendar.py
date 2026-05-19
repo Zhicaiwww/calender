@@ -69,10 +69,34 @@ def main():
             "description": "NVIDIA will host a conference call on Wednesday, May 20, at 2 p.m. PT to discuss its financial results."
         },
         {
+            "summary": "Nintendo Yoshi's Incredible Encyclopedia Launch (Switch 2)",
+            "start": "2026-05-21 00:00:00",
+            "end": "2026-05-21 23:59:59",
+            "description": "任天堂 Switch 2 游戏《耀西与不可思议的图鉴》5 月 21 日发售。"
+        },
+        {
             "summary": "The Mandalorian and Grogu Movie Release",
             "start": "2026-05-22 00:00:00",
             "end": "2026-05-22 23:59:59",
             "description": "Star Wars movie hitting theaters."
+        },
+        {
+            "summary": "vivo S60 系列新机发布会",
+            "start": "2026-05-29 14:30:00",
+            "end": "2026-05-29 16:30:00",
+            "description": "vivo S60 系列新机首发亮相：田曦薇代言，5 月 29 日发布。"
+        },
+        {
+            "summary": "Apple WWDC 2026",
+            "start": "2026-06-09 01:00:00",
+            "end": "2026-06-09 04:00:00",
+            "description": "Apple 官宣北京时间 6 月 9 日凌晨 1 点举办 WWDC26 活动，公布 iOS 27 等动向。"
+        },
+        {
+            "summary": "华为 3D 影像壁纸上线 (预计)",
+            "start": "2026-06-15 10:00:00",
+            "end": "2026-06-15 11:00:00",
+            "description": "华为 Mate 80、Pura 80 等系列机型确认适配 3D 影像壁纸，预计 6 月支持。"
         },
         {
             "summary": "一加 15T 新机发布会 (预计)",
