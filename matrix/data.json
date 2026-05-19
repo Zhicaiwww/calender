@@ -2,51 +2,39 @@
   "companies": {
     "Apple": {
       "latest_product": "M4 iPad Air, MacBook Neo (Mar 2026), iPhone 17e, Apple Intelligence Accessibility features",
-      "news": "Apple announced Apple Intelligence powered accessibility feature updates. WWDC 2026 confirmed for June 9 (Beijing Time)."
+      "news": "Apple Intelligence updates announced; WWDC 2026 set for June 9 (Beijing Time). Preparing for upcoming iOS 19/macOS 16 previews."
     },
     "NVIDIA": {
       "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra",
-      "news": "Q1 FY2027 financial results call scheduled for May 20, 2026. Focus on Blackwell demand and AI infrastructure."
+      "news": "Q1 FY2027 financial results call on May 20, 2026. Massive demand for Blackwell and AI infrastructure continues."
     },
     "Huawei": {
-      "latest_product": "Mate 70 series, Mate X6, HarmonyOS NEXT, AI Smart Glasses",
-      "news": "Huawei Mate 80 and Pura 80 series confirmed to support 3D image wallpapers starting June."
+      "latest_product": "950PR AI Chip (Ascend), Mate 70 series, HarmonyOS NEXT",
+      "news": "New 950PR AI chip successfully tested by ByteDance and Alibaba; massive orders expected. Mate 80/Pura 80 series to support 3D wallpapers in June."
     },
     "Alibaba": {
-      "latest_product": "Qwen 2.5, AI Smart Glasses, Quark Cloud Drive (SVIP update)",
-      "news": "Quark Cloud Drive launched new SVIP subscription plans."
+      "latest_product": "Qwen 2.5, AI Smart Glasses, 950PR Adoption",
+      "news": "Planning major orders for Huawei 950PR chips to reduce reliance on NVIDIA. Expanding Qwen LLM ecosystem."
     },
     "ByteDance": {
-      "latest_product": "Doubao-pro models, Roblox Reality photoreal upsampling (Partnership)",
-      "news": "Focusing on AI-integrated video and search experiences."
+      "latest_product": "Doubao-pro models, AI Video Tools, 950PR Adoption",
+      "news": "Reportedly planning $5.6 billion purchase of Huawei Ascend/950PR chips for 2026. Rapidly integrating AI into video and search."
     },
     "Honor": {
-      "latest_product": "Robot Phone (Q3 2026), Magic V6 Foldable, MagicPad 3 Pro",
-      "news": "World's first 'Robot Phone' expected to launch in Q3. Pushing 'Dragonfly' AI Agent matrix."
+      "latest_product": "Robot Phone (Q3 2026), Magic V6 Foldable",
+      "news": "World's first 'Robot Phone' expected in Q3. Advancing 'Dragonfly' AI Agent matrix."
     },
     "Xiaomi": {
-      "latest_product": "Xiaomi 17 Max (8000mAh battery), Xiaomi YU7 GT (Nurburgring SUV record), AI Smart Glasses",
-      "news": "Xiaomi YU7 GT set a new Nurburgring SUV lap record. Xiaomi 17 Max features 8000mAh Jinshajiang battery."
+      "latest_product": "Xiaomi 17 Max (8000mAh), Xiaomi YU7 GT",
+      "news": "Xiaomi YU7 GT set Nurburgring SUV record. 17 Max features ultra-high capacity battery."
     },
     "Google": {
       "latest_product": "Gemini 3.5 Flash, Gemini 3.5 Pro (June 2026)",
-      "news": "Google I/O 2026 launched Gemini 3.5 Flash (4x faster than GPT-5.5). Gemini 3.5 Pro announced for June release."
-    },
-    "Anthropic": {
-      "latest_product": "Claude Security (Opus 4.7)",
-      "news": "Partnering with xAI (SpaceXAI) for compute. Launched Claude Security for enterprise codebase scanning."
+      "news": "Google I/O 2026 launched Gemini 3.5 Flash; Pro version slated for June release."
     },
     "OpenAI": {
       "latest_product": "GPT-5.4",
-      "news": "Musk v. Altman legal proceedings revealing internal board conflicts regarding ChatGPT launch and Helion deal. xAI (SpaceXAI) compute partnership with Anthropic announced."
-    },
-    "Nintendo": {
-      "latest_product": "Switch 2 (Console), Yoshi's Incredible Encyclopedia",
-      "news": "Mandalorian movie tie-ins and Switch 2 launch titles expected in May/June."
-    },
-    "Samsung": {
-       "latest_product": "Galaxy S26 (One UI 8.5), Galaxy Ring",
-       "news": "Discontinuing TV sales in China due to domestic competition. Galaxy Ring 2 development reported with 10-day battery life (expected 2027)."
+      "news": "Ongoing legal/internal shifts; focus on GPT-5 series scaling and agentic capabilities."
     }
   },
   "upcoming_events": [
@@ -57,7 +45,7 @@
     },
     {
       "date": "2026-05-21",
-      "event": "Nintendo Yoshi's Incredible Encyclopedia Launch (Switch 2)",
+      "event": "Nintendo Yoshi's Incredible Encyclopedia Launch",
       "status": "Confirmed"
     },
     {
@@ -66,15 +54,15 @@
       "status": "Confirmed"
     },
     {
-      "date": "2026-06-01",
-      "event": "Snap Specs / Intelligent Eyewear News",
-      "status": "Predicted"
+      "date": "2026-06-08",
+      "event": "Apple WWDC 2026 (Day 1)",
+      "status": "Confirmed"
     },
     {
-      "date": "2026-06-08",
-      "event": "Apple WWDC 2026",
-      "status": "Predicted"
+      "date": "2026-06-09",
+      "event": "Apple WWDC 2026 (Beijing Time)",
+      "status": "Confirmed"
     }
   ],
-  "last_updated": "2026-05-07 22:05"
+  "last_updated": "2026-05-20 07:55"
 }
