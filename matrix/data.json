@@ -1,88 +1,114 @@
-{
-  "companies": {
-    "Apple": {
-      "latest_product": "iPhone 17 Pro/Air (Sept 2025), AirPods Pro 3, Apple Watch Series 11/Ultra 3, M4 iPad Air",
-      "news": "Preparing for WWDC 2026 on June 8 (Beijing Time June 9). Accessibility features with Apple Intelligence coming年内. iOS 27 preview expected."
-    },
-    "NVIDIA": {
-      "latest_product": "RTX 50-series Blackwell GPUs, H200 AI Chips",
-      "news": "Q1 FY2027 results call today (May 20). Jensen Huang keynote at Computex 2026 on June 1 at Taipei Music Center."
-    },
-    "Huawei": {
-      "latest_product": "Ascend 910C (Ascend 950PR), HarmonyOS NEXT, MatePad Mini 悦读版",
-      "news": "HarmonyOS NEXT 8.10 released for early testing. Mate 80/Pura 80 series to support 3D image wallpapers in June. Confirmed supply for Xiaomi new cars."
-    },
-    "Alibaba": {
-      "latest_product": "Qwen 2.5 series, AI Smart Glasses",
-      "news": "Expanding AI infrastructure with H200 chip approval. 618 sales campaigns in full swing."
-    },
-    "ByteDance": {
-      "latest_product": "Doubao-pro models, Seedance 2.0",
-      "news": "2026 AI capex increased to $30B. Integrating Gemini-like multimodal capabilities into search/video."
-    },
-    "Xiaomi": {
-      "latest_product": "Xiaomi 17 Max (8000mAh battery), Xiaomi YU7 GT (Nurburgring SUV record holder)",
-      "news": "YU7 GT equipped with V8s EVO motor and Dragon chassis. 17 Max heavy-use battery life exceeds 33 hours."
-    },
-    "Lenovo": {
-      "latest_product": "moto razr fold (9999元), Y7000X/Y9000P 2026 Laptops (RTX 5070), Legion Y70 (Snapdragon 8 Gen 5)",
-      "news": "Released a wide array of 2026 Legion and YOGA AI PCs. Legion Y70 phone starting at 2599元."
-    },
-    "Google": {
-      "latest_product": "Gemini 3.5 Flash, Gemini Omni (multimodal)",
-      "news": "Gemini 3.5 Pro slated for June 2026. Processing 3200 trillion tokens per month (7x YoY)."
-    },
-    "Microsoft": {
-      "latest_product": "Surface Pro 12, Surface Laptop 8 (Intel version)",
-      "news": "Addressing low Copilot paid adoption rates. Pushing Copilot integration into Windows 11/12."
-    }
+[
+  {
+    "company": "Apple",
+    "layer": "Terminal Device",
+    "product": "iPhone 17 Pro",
+    "details": "A19 Pro chip, 48MP cameras, Ceramic Shield 2. Launched March 2026.",
+    "competitor": "Samsung S26, Huawei Mate 80"
   },
-  "upcoming_events": [
-    {
-      "date": "2026-05-20",
-      "event": "NVIDIA Q1 FY2027 Financial Results Call",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-05-21",
-      "event": "Nintendo Yoshi's Incredible Encyclopedia Launch",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-05-29",
-      "event": "vivo S60 Series Launch",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-05-30",
-      "event": "JD 618 Main Sale Kick-off (20:00)",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-06-01",
-      "event": "NVIDIA Computex 2026 Keynote (Jensen Huang, 11 AM Taipei)",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-06-02",
-      "event": "Computex 2026 (Day 1, Nangang Hall 1 & 2)",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-06-08",
-      "event": "Apple WWDC 2026 (Day 1 Keynote)",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-06-09",
-      "event": "Apple WWDC 2026 (01:00 Beijing Time)",
-      "status": "Confirmed"
-    },
-    {
-      "date": "2026-06-15",
-      "event": "Zhejiang Unicom 3G Network Exit",
-      "status": "Confirmed"
-    }
-  ],
-  "last_updated": "2026-05-20 19:43"
-}
+  {
+    "company": "Apple",
+    "layer": "Terminal Device",
+    "product": "iPhone Air",
+    "details": "Thinnest iPhone ever, A19 Pro chip. Launched March 2026.",
+    "competitor": "iPad Pro, Ultra-thin Androids"
+  },
+  {
+    "company": "Apple",
+    "layer": "Wearables",
+    "product": "AirPods Pro 3",
+    "details": "Heart rate sensing, Live Translation, improved ANC. Launched March 2026.",
+    "competitor": "Sony WF-1000XM6"
+  },
+  {
+    "company": "Apple",
+    "layer": "Wearables",
+    "product": "Apple Watch Ultra 3",
+    "details": "Satellite comms, 5G, multiday battery. Launched March 2026.",
+    "competitor": "Garmin Epix, Huawei Watch Ultimate"
+  },
+  {
+    "company": "Apple",
+    "layer": "Software/OS",
+    "product": "iOS 20 / macOS 17",
+    "details": "Expected previews at WWDC 2026 (June). Focused on agentic AI features.",
+    "competitor": "Android 17"
+  },
+  {
+    "company": "NVIDIA",
+    "layer": "Infrastructure/Compute",
+    "product": "Blackwell B200",
+    "details": "Next-gen AI GPU, flagship for 2025-2026.",
+    "competitor": "AMD MI350"
+  },
+  {
+    "company": "NVIDIA",
+    "layer": "Infrastructure/Compute",
+    "product": "NVIDIA Vera CPU",
+    "details": "First CPU purpose-built for AI agents, delivered to partners in May 2026.",
+    "competitor": "Intel Xeon, AMD EPYC"
+  },
+  {
+    "company": "NVIDIA",
+    "layer": "Infrastructure/Compute",
+    "product": "NVIDIA Vera Rubin Platform",
+    "details": "Next-gen architecture after Blackwell (Vera CPU + Rubin GPU).",
+    "competitor": "AMD MI400"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Terminal Device",
+    "product": "Mate 80 Air",
+    "details": "7.02 inch OLED, Kirin 9030, flagship performance. Launch March 20, 2026.",
+    "competitor": "iPhone 17 Pro Max, Samsung S26 Ultra"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Terminal Device",
+    "product": "MatePad Pro Max",
+    "details": "New high-end tablet launched May 7, 2026.",
+    "competitor": "iPad Pro M4"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Wearables",
+    "product": "Huawei Watch Fit 5 Pro",
+    "details": "New fitness-focused smartwatch launched May 7, 2026.",
+    "competitor": "Apple Watch SE"
+  },
+  {
+    "company": "Huawei",
+    "layer": "Infrastructure/Compute",
+    "product": "Ascend 910C",
+    "details": "Leading AI training chip; revenue expected to jump 60% in 2026.",
+    "competitor": "NVIDIA H200/B200"
+  },
+  {
+    "company": "Alibaba",
+    "layer": "Infrastructure/Compute",
+    "product": "Zhenwu M890 (T-Head)",
+    "details": "New AI chip announced May 2026, 3x faster than predecessor.",
+    "competitor": "NVIDIA H200 (China-spec)"
+  },
+  {
+    "company": "Alibaba",
+    "layer": "AI/LLM",
+    "product": "Qwen 3.7-Max",
+    "details": "Comprehensive full-stack AI upgrade for the agentic era, announced May 2026.",
+    "competitor": "GPT-5, Llama 4"
+  },
+  {
+    "company": "ByteDance",
+    "layer": "Infrastructure/Compute",
+    "product": "AI Infrastructure Expansion",
+    "details": "Raised 2026 capex by 25% (to 200B CNY) for AI growth and domestic GPUs.",
+    "competitor": "Alibaba Cloud, Tencent Cloud"
+  },
+  {
+    "company": "ByteDance",
+    "layer": "AI/LLM",
+    "product": "Doubao (豆包)",
+    "details": "Native AI application and foundational models.",
+    "competitor": "ChatGPT, Kimi"
+  }
+]

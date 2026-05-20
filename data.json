@@ -28,6 +28,13 @@
     "competitor": "Garmin Epix, Huawei Watch Ultimate"
   },
   {
+    "company": "Apple",
+    "layer": "Software/OS",
+    "product": "iOS 20 / macOS 17",
+    "details": "Expected previews at WWDC 2026 (June). Focused on agentic AI features.",
+    "competitor": "Android 17"
+  },
+  {
     "company": "NVIDIA",
     "layer": "Infrastructure/Compute",
     "product": "Blackwell B200",
@@ -37,8 +44,15 @@
   {
     "company": "NVIDIA",
     "layer": "Infrastructure/Compute",
-    "product": "NVIDIA Rubin",
-    "details": "Next-gen architecture after Blackwell (announced for 2026).",
+    "product": "NVIDIA Vera CPU",
+    "details": "First CPU purpose-built for AI agents, delivered to partners in May 2026.",
+    "competitor": "Intel Xeon, AMD EPYC"
+  },
+  {
+    "company": "NVIDIA",
+    "layer": "Infrastructure/Compute",
+    "product": "NVIDIA Vera Rubin Platform",
+    "details": "Next-gen architecture after Blackwell (Vera CPU + Rubin GPU).",
     "competitor": "AMD MI400"
   },
   {
@@ -51,58 +65,44 @@
   {
     "company": "Huawei",
     "layer": "Terminal Device",
-    "product": "畅享 90 系列",
-    "details": "Entry-level, large battery, high value. Launch March 20, 2026.",
-    "competitor": "Redmi Note 15, Honor X70"
-  },
-  {
-    "company": "Huawei",
-    "layer": "Terminal Device",
-    "product": "Pura X2 (Foldable)",
-    "details": "Next-gen foldable, delayed to April 2026.",
-    "competitor": "Oppo Find N6, Galaxy Z Fold 7"
-  },
-  {
-    "company": "Huawei",
-    "layer": "Terminal Device",
-    "product": "MatePad Pro 13.2 (2026)",
-    "details": "High-end tablet with NearLink technology.",
+    "product": "MatePad Pro Max",
+    "details": "New high-end tablet launched May 7, 2026.",
     "competitor": "iPad Pro M4"
   },
   {
     "company": "Huawei",
     "layer": "Wearables",
-    "product": "Huawei Watch GT 5",
-    "details": "Latest health-tracking smartwatch.",
-    "competitor": "Apple Watch Series 11"
+    "product": "Huawei Watch Fit 5 Pro",
+    "details": "New fitness-focused smartwatch launched May 7, 2026.",
+    "competitor": "Apple Watch SE"
   },
   {
     "company": "Huawei",
     "layer": "Infrastructure/Compute",
     "product": "Ascend 910C",
-    "details": "China's leading AI training chip, competing with H100.",
-    "competitor": "NVIDIA H100/H200"
+    "details": "Leading AI training chip; revenue expected to jump 60% in 2026.",
+    "competitor": "NVIDIA H200/B200"
   },
   {
-    "company": "Oppo",
-    "layer": "Terminal Device",
-    "product": "Find N6",
-    "details": "Global launch on March 17, 2026. Flagship foldable.",
-    "competitor": "Galaxy Z Fold 7"
-  },
-  {
-    "company": "Google",
-    "layer": "Terminal Device",
-    "product": "Pixel 11 Pro Fold",
-    "details": "Thinner design (10.1mm), leaked March 2026.",
-    "competitor": "iPhone Air, Oppo Find N6"
+    "company": "Alibaba",
+    "layer": "Infrastructure/Compute",
+    "product": "Zhenwu M890 (T-Head)",
+    "details": "New AI chip announced May 2026, 3x faster than predecessor.",
+    "competitor": "NVIDIA H200 (China-spec)"
   },
   {
     "company": "Alibaba",
     "layer": "AI/LLM",
-    "product": "Qwen 2.5",
-    "details": "Open-source frontier LLM, strong coding/math capabilities.",
-    "competitor": "Llama 3, GPT-4o"
+    "product": "Qwen 3.7-Max",
+    "details": "Comprehensive full-stack AI upgrade for the agentic era, announced May 2026.",
+    "competitor": "GPT-5, Llama 4"
+  },
+  {
+    "company": "ByteDance",
+    "layer": "Infrastructure/Compute",
+    "product": "AI Infrastructure Expansion",
+    "details": "Raised 2026 capex by 25% (to 200B CNY) for AI growth and domestic GPUs.",
+    "competitor": "Alibaba Cloud, Tencent Cloud"
   },
   {
     "company": "ByteDance",
