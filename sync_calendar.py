@@ -115,6 +115,12 @@ def main():
             "start": "2026-04-21 19:00:00",
             "end": "2026-04-21 21:00:00",
             "description": "OPPO 官网官宣。链接：https://www.ithome.com/0/938/733.htm"
+        },
+        {
+            "summary": "《坦克世界：HEAT》游戏发售",
+            "start": "2026-05-26 10:00:00",
+            "end": "2026-05-26 12:00:00",
+            "description": "登录 PS5、Xbox、Steam，支持中文。链接：https://www.ithome.com/0/952/693.htm"
         }
     ]
     

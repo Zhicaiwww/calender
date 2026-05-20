@@ -2,23 +2,23 @@
   "companies": {
     "Apple": {
       "latest_product": "M4 iPad Air, MacBook Neo (Mar 2026), iPhone 17e, Apple Intelligence Accessibility features",
-      "news": "Apple Intelligence updates announced; WWDC 2026 set for June 9 (Beijing Time). Preparing for upcoming iOS 19/macOS 16 previews."
+      "news": "Trump trades millions in Apple stocks while promoting the company. Preparing for WWDC 2026 (June 9 BST)."
     },
     "NVIDIA": {
       "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra",
-      "news": "Q1 FY2027 financial results call on May 20, 2026. Massive demand for Blackwell and AI infrastructure continues."
+      "news": "U.S. authorized H200 AI chip sales to 10 Chinese tech giants (Alibaba, ByteDance, etc.). Q1 FY2027 results call today."
     },
     "Huawei": {
       "latest_product": "950PR AI Chip (Ascend), Mate 70 series, HarmonyOS NEXT",
-      "news": "New 950PR AI chip successfully tested by ByteDance and Alibaba; massive orders expected. Mate 80/Pura 80 series to support 3D wallpapers in June."
+      "news": "Huawei's flagship chips remain a key alternative as ByteDance lifts 2026 AI capex to $30B. Mate 80/Pura 80 series upcoming."
     },
     "Alibaba": {
       "latest_product": "Qwen 2.5, AI Smart Glasses, 950PR Adoption",
-      "news": "Planning major orders for Huawei 950PR chips to reduce reliance on NVIDIA. Expanding Qwen LLM ecosystem."
+      "news": "Approved by U.S. to purchase NVIDIA H200 chips. Expanding Qwen LLM ecosystem and chip diversification."
     },
     "ByteDance": {
-      "latest_product": "Doubao-pro models, AI Video Tools, 950PR Adoption",
-      "news": "Reportedly planning $5.6 billion purchase of Huawei Ascend/950PR chips for 2026. Rapidly integrating AI into video and search."
+      "latest_product": "Doubao-pro models, AI Video Tools, Seedance 2.0",
+      "news": "Lifted 2026 AI capex to $30 billion. Approved to buy NVIDIA H200 chips. Integrating AI into video/search rapidly."
     },
     "Honor": {
       "latest_product": "Robot Phone (Q3 2026), Magic V6 Foldable",
@@ -64,5 +64,5 @@
       "status": "Confirmed"
     }
   ],
-  "last_updated": "2026-05-20 07:55"
+  "last_updated": "2026-05-20 13:55"
 }
