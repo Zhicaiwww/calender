@@ -1,40 +1,40 @@
 {
   "companies": {
     "Apple": {
-      "latest_product": "M4 iPad Air, MacBook Neo (Mar 2026), iPhone 17e, Apple Intelligence Accessibility features",
-      "news": "Trump trades millions in Apple stocks while promoting the company. Preparing for WWDC 2026 (June 9 BST)."
+      "latest_product": "iPhone 17 Pro/Air (Sept 2025), AirPods Pro 3, Apple Watch Series 11/Ultra 3, M4 iPad Air",
+      "news": "Preparing for WWDC 2026 on June 8 (Beijing Time June 9). Accessibility features with Apple Intelligence coming年内. iOS 27 preview expected."
     },
     "NVIDIA": {
-      "latest_product": "RTX 50-series Blackwell GPUs, Blackwell Ultra",
-      "news": "U.S. authorized H200 AI chip sales to 10 Chinese tech giants (Alibaba, ByteDance, etc.). Q1 FY2027 results call today."
+      "latest_product": "RTX 50-series Blackwell GPUs, H200 AI Chips",
+      "news": "Q1 FY2027 results call today (May 20). Jensen Huang keynote at Computex 2026 on June 1 at Taipei Music Center."
     },
     "Huawei": {
-      "latest_product": "950PR AI Chip (Ascend), Mate 70 series, HarmonyOS NEXT",
-      "news": "Huawei's flagship chips remain a key alternative as ByteDance lifts 2026 AI capex to $30B. Mate 80/Pura 80 series upcoming."
+      "latest_product": "Ascend 910C (Ascend 950PR), HarmonyOS NEXT, MatePad Mini 悦读版",
+      "news": "HarmonyOS NEXT 8.10 released for early testing. Mate 80/Pura 80 series to support 3D image wallpapers in June. Confirmed supply for Xiaomi new cars."
     },
     "Alibaba": {
-      "latest_product": "Qwen 2.5, AI Smart Glasses, 950PR Adoption",
-      "news": "Approved by U.S. to purchase NVIDIA H200 chips. Expanding Qwen LLM ecosystem and chip diversification."
+      "latest_product": "Qwen 2.5 series, AI Smart Glasses",
+      "news": "Expanding AI infrastructure with H200 chip approval. 618 sales campaigns in full swing."
     },
     "ByteDance": {
-      "latest_product": "Doubao-pro models, AI Video Tools, Seedance 2.0",
-      "news": "Lifted 2026 AI capex to $30 billion. Approved to buy NVIDIA H200 chips. Integrating AI into video/search rapidly."
-    },
-    "Honor": {
-      "latest_product": "Robot Phone (Q3 2026), Magic V6 Foldable",
-      "news": "World's first 'Robot Phone' expected in Q3. Advancing 'Dragonfly' AI Agent matrix."
+      "latest_product": "Doubao-pro models, Seedance 2.0",
+      "news": "2026 AI capex increased to $30B. Integrating Gemini-like multimodal capabilities into search/video."
     },
     "Xiaomi": {
-      "latest_product": "Xiaomi 17 Max (8000mAh), Xiaomi YU7 GT",
-      "news": "Xiaomi YU7 GT set Nurburgring SUV record. 17 Max features ultra-high capacity battery."
+      "latest_product": "Xiaomi 17 Max (8000mAh battery), Xiaomi YU7 GT (Nurburgring SUV record holder)",
+      "news": "YU7 GT equipped with V8s EVO motor and Dragon chassis. 17 Max heavy-use battery life exceeds 33 hours."
+    },
+    "Lenovo": {
+      "latest_product": "moto razr fold (9999元), Y7000X/Y9000P 2026 Laptops (RTX 5070), Legion Y70 (Snapdragon 8 Gen 5)",
+      "news": "Released a wide array of 2026 Legion and YOGA AI PCs. Legion Y70 phone starting at 2599元."
     },
     "Google": {
-      "latest_product": "Gemini 3.5 Flash, Gemini 3.5 Pro (June 2026)",
-      "news": "Google I/O 2026 launched Gemini 3.5 Flash; Pro version slated for June release."
+      "latest_product": "Gemini 3.5 Flash, Gemini Omni (multimodal)",
+      "news": "Gemini 3.5 Pro slated for June 2026. Processing 3200 trillion tokens per month (7x YoY)."
     },
-    "OpenAI": {
-      "latest_product": "GPT-5.4",
-      "news": "Ongoing legal/internal shifts; focus on GPT-5 series scaling and agentic capabilities."
+    "Microsoft": {
+      "latest_product": "Surface Pro 12, Surface Laptop 8 (Intel version)",
+      "news": "Addressing low Copilot paid adoption rates. Pushing Copilot integration into Windows 11/12."
     }
   },
   "upcoming_events": [
@@ -49,20 +49,40 @@
       "status": "Confirmed"
     },
     {
-      "date": "2026-05-22",
-      "event": "The Mandalorian and Grogu Movie Release",
+      "date": "2026-05-29",
+      "event": "vivo S60 Series Launch",
+      "status": "Confirmed"
+    },
+    {
+      "date": "2026-05-30",
+      "event": "JD 618 Main Sale Kick-off (20:00)",
+      "status": "Confirmed"
+    },
+    {
+      "date": "2026-06-01",
+      "event": "NVIDIA Computex 2026 Keynote (Jensen Huang, 11 AM Taipei)",
+      "status": "Confirmed"
+    },
+    {
+      "date": "2026-06-02",
+      "event": "Computex 2026 (Day 1, Nangang Hall 1 & 2)",
       "status": "Confirmed"
     },
     {
       "date": "2026-06-08",
-      "event": "Apple WWDC 2026 (Day 1)",
+      "event": "Apple WWDC 2026 (Day 1 Keynote)",
       "status": "Confirmed"
     },
     {
       "date": "2026-06-09",
-      "event": "Apple WWDC 2026 (Beijing Time)",
+      "event": "Apple WWDC 2026 (01:00 Beijing Time)",
+      "status": "Confirmed"
+    },
+    {
+      "date": "2026-06-15",
+      "event": "Zhejiang Unicom 3G Network Exit",
       "status": "Confirmed"
     }
   ],
-  "last_updated": "2026-05-20 13:55"
+  "last_updated": "2026-05-20 19:43"
 }
