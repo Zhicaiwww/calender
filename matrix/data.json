@@ -31,8 +31,15 @@
     "company": "Apple",
     "layer": "Software/OS",
     "product": "iOS 20 / macOS 17",
-    "details": "Expected previews at WWDC 2026 (June). Focused on agentic AI features.",
+    "details": "Previews expected at WWDC 2026 (starts June 8). Focused on agentic AI features.",
     "competitor": "Android 17"
+  },
+  {
+    "company": "Apple",
+    "layer": "Software/OS",
+    "product": "Accessibility Features & Apple Intelligence",
+    "details": "New accessibility updates powered by Apple Intelligence announced May 19, 2026.",
+    "competitor": "Google Android Accessibility"
   },
   {
     "company": "NVIDIA",
@@ -52,8 +59,15 @@
     "company": "NVIDIA",
     "layer": "Infrastructure/Compute",
     "product": "NVIDIA Vera Rubin Platform",
-    "details": "Next-gen architecture after Blackwell (Vera CPU + Rubin GPU).",
+    "details": "Next-gen architecture after Blackwell (Vera CPU + Rubin GPU). Announced May 2026.",
     "competitor": "AMD MI400"
+  },
+  {
+    "company": "NVIDIA",
+    "layer": "Infrastructure/Compute",
+    "product": "NVIDIA Groq 3 LPX / BlueField-4 STX",
+    "details": "New AI and networking infrastructure products revealed in May 2026 multimedia releases.",
+    "competitor": "Broadcom, Marvell"
   },
   {
     "company": "Huawei",
@@ -79,15 +93,15 @@
   {
     "company": "Huawei",
     "layer": "Infrastructure/Compute",
-    "product": "Ascend 910C",
-    "details": "Leading AI training chip; revenue expected to jump 60% in 2026.",
+    "product": "Ascend 950",
+    "details": "Next-gen AI chip with soaring demand after DeepSeek V4 launch, reported April 2026.",
     "competitor": "NVIDIA H200/B200"
   },
   {
     "company": "Alibaba",
     "layer": "Infrastructure/Compute",
     "product": "Zhenwu M890 (T-Head)",
-    "details": "New AI chip announced May 2026, 3x faster than predecessor.",
+    "details": "New AI chip announced May 20, 2026, performing 3x better than predecessor.",
     "competitor": "NVIDIA H200 (China-spec)"
   },
   {
@@ -99,16 +113,16 @@
   },
   {
     "company": "ByteDance",
-    "layer": "Infrastructure/Compute",
-    "product": "AI Infrastructure Expansion",
-    "details": "Raised 2026 capex by 25% (to 200B CNY) for AI growth and domestic GPUs.",
-    "competitor": "Alibaba Cloud, Tencent Cloud"
+    "layer": "AI/LLM",
+    "product": "Doubao (豆包) 2.0",
+    "details": "Major upgrade to China's most popular AI app, reached 260M+ MAU in Q1 2026.",
+    "competitor": "ChatGPT, Kimi, Baidu Wenxin"
   },
   {
     "company": "ByteDance",
     "layer": "AI/LLM",
-    "product": "Doubao (豆包)",
-    "details": "Native AI application and foundational models.",
-    "competitor": "ChatGPT, Kimi"
+    "product": "Doubao Paid Subscriptions",
+    "details": "Launched paid tiers (68/200/500 yuan/month) in May 2026 to test monetization.",
+    "competitor": "ChatGPT Plus, Claude Pro"
   }
 ]
