@@ -125,4 +125,32 @@
     "details": "Launched paid tiers (68/200/500 yuan/month) in May 2026 to test monetization.",
     "competitor": "ChatGPT Plus, Claude Pro"
   }
+  {
+    "company": "Apple",
+    "layer": "Terminal Device",
+    "product": "M4 iPad Air",
+    "details": "Low-key press release launch in May 2026, focusing on M4 performance.",
+    "competitor": "Huawei MatePad Pro Max"
+  },
+  {
+    "company": "NVIDIA",
+    "layer": "Infrastructure/Compute",
+    "product": "H200 AI Chips (China-spec)",
+    "details": "US approved licenses for ~10 major Chinese firms (ByteDance, Alibaba) in May 2026, though deliveries face local guidance challenges.",
+    "competitor": "Huawei Ascend 950, Alibaba Zhenwu M890"
+  },
+  {
+    "company": "ByteDance",
+    "layer": "AI/LLM",
+    "product": "TikTok World '26 Showcase",
+    "details": "Hosted in May 2026, focused on AI-powered advertising and vertical video innovations.",
+    "competitor": "Google YouTube, Meta Reels"
+  },
+  {
+    "company": "Alibaba",
+    "layer": "AI/LLM",
+    "product": "HappyHorse Video Generation API",
+    "details": "Beta testing started May 2026, targeting e-commerce marketing with competitive costs.",
+    "competitor": "ByteDance Seedance 2.0, OpenAI Sora"
+  }
 ]
