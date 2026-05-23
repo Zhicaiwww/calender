@@ -1,177 +1,29 @@
-[
-  {
-    "company": "Apple",
-    "layer": "Terminal Device",
-    "product": "iPhone 17 Pro",
-    "details": "A19 Pro chip, 48MP cameras, Ceramic Shield 2. Launched March 2026.",
-    "competitor": "Samsung S26, Huawei Mate 80"
-  },
-  {
-    "company": "Apple",
-    "layer": "Terminal Device",
-    "product": "iPhone Air",
-    "details": "Thinnest iPhone ever, A19 Pro chip. Launched March 2026.",
-    "competitor": "iPad Pro, Ultra-thin Androids"
-  },
-  {
-    "company": "Apple",
-    "layer": "Wearables",
-    "product": "AirPods Pro 3",
-    "details": "Heart rate sensing, Live Translation, improved ANC. Launched March 2026.",
-    "competitor": "Sony WF-1000XM6"
-  },
-  {
-    "company": "Apple",
-    "layer": "Wearables",
-    "product": "Apple Watch Ultra 3",
-    "details": "Satellite comms, 5G, multiday battery. Launched March 2026.",
-    "competitor": "Garmin Epix, Huawei Watch Ultimate"
-  },
-  {
-    "company": "Apple",
-    "layer": "Software/OS",
-    "product": "iOS 20 / macOS 17",
-    "details": "Previews expected at WWDC 2026 (starts June 8). Focused on agentic AI features.",
-    "competitor": "Android 17"
-  },
-  {
-    "company": "Apple",
-    "layer": "Software/OS",
-    "product": "Accessibility Features & Apple Intelligence",
-    "details": "New accessibility updates powered by Apple Intelligence announced May 19, 2026.",
-    "competitor": "Google Android Accessibility"
-  },
-  {
-    "company": "Apple",
-    "layer": "Terminal Device",
-    "product": "M4 iPad Air",
-    "details": "Low-key press release launch in May 2026, focusing on M4 performance.",
-    "competitor": "Huawei MatePad Pro Max"
-  },
-  {
-    "company": "NVIDIA",
-    "layer": "Infrastructure/Compute",
-    "product": "Blackwell B200",
-    "details": "Next-gen AI GPU, flagship for 2025-2026.",
-    "competitor": "AMD MI350"
-  },
-  {
-    "company": "NVIDIA",
-    "layer": "Infrastructure/Compute",
-    "product": "NVIDIA Vera CPU",
-    "details": "First CPU purpose-built for AI agents, delivered to partners in May 2026.",
-    "competitor": "Intel Xeon, AMD EPYC"
-  },
-  {
-    "company": "NVIDIA",
-    "layer": "Infrastructure/Compute",
-    "product": "NVIDIA Vera Rubin Platform",
-    "details": "Next-gen architecture after Blackwell (Vera CPU + Rubin GPU). Announced May 2026.",
-    "competitor": "AMD MI400"
-  },
-  {
-    "company": "NVIDIA",
-    "layer": "Infrastructure/Compute",
-    "product": "NVIDIA Groq 3 LPX / BlueField-4 STX",
-    "details": "New AI and networking infrastructure products revealed in May 2026 multimedia releases.",
-    "competitor": "Broadcom, Marvell"
-  },
-  {
-    "company": "NVIDIA",
-    "layer": "Infrastructure/Compute",
-    "product": "RTX 50-Series (5060, 5060 Ti, 5050)",
-    "details": "Upcoming consumer GPU launches teased in May 2026 hardware roadmap updates.",
-    "competitor": "AMD Radeon RX 8000"
-  },
-  {
-    "company": "NVIDIA",
-    "layer": "Infrastructure/Compute",
-    "product": "H200 (China-spec)",
-    "details": "US Commerce Department approved exports of H200 AI chips to around 10 Chinese firms (including Alibaba, Tencent, ByteDance) in May 2024.",
-    "competitor": "Huawei Ascend 950PR"
-  },
-  {
-    "company": "Huawei",
-    "layer": "Terminal Device",
-    "product": "Mate 80 Air",
-    "details": "7.02 inch OLED, Kirin 9030, flagship performance. Launch March 20, 2026.",
-    "competitor": "iPhone 17 Pro Max, Samsung S26 Ultra"
-  },
-  {
-    "company": "Huawei",
-    "layer": "Terminal Device",
-    "product": "MatePad Pro Max",
-    "details": "New high-end tablet launched May 7, 2026 at the Innovative Product Launch in Bangkok.",
-    "competitor": "iPad Pro M4"
-  },
-  {
-    "company": "Huawei",
-    "layer": "Wearables",
-    "product": "Huawei Watch Fit 5 series",
-    "details": "New fitness-focused smartwatches launched May 7, 2026, including Spring Edition designs.",
-    "competitor": "Apple Watch SE"
-  },
-  {
-    "company": "Huawei",
-    "layer": "Infrastructure/Compute",
-    "product": "Ascend 950PR",
-    "details": "Next-gen AI chip designed to rival NVIDIA. Passed testing at ByteDance and Alibaba in March 2026; major orders planned. Expected to drive $12B revenue in 2026.",
-    "competitor": "NVIDIA H200/B200"
-  },
-  {
-    "company": "Alibaba",
-    "layer": "Infrastructure/Compute",
-    "product": "Zhenwu M890 (T-Head)",
-    "details": "New AI chip announced May 20, 2026, performing 3x better than predecessor. Targeted at AI software agents.",
-    "competitor": "NVIDIA H200 (China-spec)"
-  },
-  {
-    "company": "Alibaba",
-    "layer": "AI/LLM",
-    "product": "Qwen 3.7-Max",
-    "details": "Comprehensive full-stack AI upgrade for the agentic era, announced May 2026.",
-    "competitor": "GPT-5, Llama 4"
-  },
-  {
-    "company": "Alibaba",
-    "layer": "AI/LLM",
-    "product": "HappyHorse Video Generation API",
-    "details": "Beta testing started May 2026, targeting e-commerce marketing with competitive costs.",
-    "competitor": "ByteDance Seedance 2.0, OpenAI Sora"
-  },
-  {
-    "company": "ByteDance",
-    "layer": "AI/LLM",
-    "product": "Doubao (豆包) 2.0",
-    "details": "Major upgrade to China's most popular AI app, reached 260M+ MAU in Q1 2026.",
-    "competitor": "ChatGPT, Kimi, Baidu Wenxin"
-  },
-  {
-    "company": "ByteDance",
-    "layer": "AI/LLM",
-    "product": "Doubao Paid Subscriptions",
-    "details": "Launched paid tiers (68/200/500 yuan/month) in May 2026 to test monetization.",
-    "competitor": "ChatGPT Plus, Claude Pro"
-  },
-  {
-    "company": "ByteDance",
-    "layer": "AI/LLM",
-    "product": "SeeDance 2.0",
-    "details": "Advanced video generation model expanded to global CapCut users in May 2026.",
-    "competitor": "OpenAI Sora, Alibaba HappyHorse"
-  },
-  {
-    "company": "ByteDance",
-    "layer": "AI/LLM",
-    "product": "TikTok World '26 Showcase",
-    "details": "Hosted in May 2026, focused on AI-powered advertising and vertical video innovations.",
-    "competitor": "Google YouTube, Meta Reels"
-  },
-  {
-    "company": "Zhongxing (ZTE)",
-    "layer": "Terminal Device",
-    "product": "G5 Pro 5G CPE 高性能版",
-    "details": "High-performance 5G mobile router, priced at 2099 yuan. Launching May 28, 2026.",
-    "competitor": "Huawei 5G CPE, TP-Link"
-  }
-]
+{
+  "companies": [
+    {
+      "name": "Apple",
+      "latest_info": "WWDC 2026 set for June 8-12, 2026. CEO Tim Cook recently visited Beijing.",
+      "last_updated": "2026-05-23"
+    },
+    {
+      "name": "NVIDIA",
+      "latest_info": "GTC Taipei/COMPUTEX keynote scheduled for June 1-4, 2026. CEO Jensen Huang visited Beijing. US approved H200 sales to some Chinese firms.",
+      "last_updated": "2026-05-23"
+    },
+    {
+      "name": "Huawei",
+      "latest_info": "Launched 950PR AI chip with strong local orders from ByteDance and Alibaba. Global ICT Competition finals June 2-5, 2026 in Shenzhen.",
+      "last_updated": "2026-05-23"
+    },
+    {
+      "name": "ByteDance",
+      "latest_info": "Planning massive $5.6 billion purchase of Huawei AI chips in 2026. Investing over $30 billion in AI infrastructure.",
+      "last_updated": "2026-05-23"
+    },
+    {
+      "name": "Alibaba",
+      "latest_info": "Planning to order Huawei 950PR chips; also approved for newly licensed Nvidia H200 chips. Expanding cloud capabilities across Asia.",
+      "last_updated": "2026-05-23"
+    }
+  ]
+}
