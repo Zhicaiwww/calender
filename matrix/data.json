@@ -2,28 +2,28 @@
   "companies": [
     {
       "name": "Apple",
-      "latest_info": "WWDC 2026 set for June 8-12, 2026. CEO Tim Cook recently visited Beijing.",
-      "last_updated": "2026-05-23"
+      "latest_info": "WWDC 2026 set for June 8-12, showcasing iOS 27, iPadOS 27, and macOS 27 with Siri overhauls. CEO Tim Cook recently joined the U.S. delegation to Beijing.",
+      "last_updated": "2026-05-24"
     },
     {
       "name": "NVIDIA",
-      "latest_info": "GTC Taipei/COMPUTEX keynote scheduled for June 1-4, 2026. CEO Jensen Huang visited Beijing. US approved H200 sales to some Chinese firms.",
-      "last_updated": "2026-05-23"
+      "latest_info": "GTC Taipei (alongside COMPUTEX) scheduled for June 1-4, 2026. CEO Jensen Huang visited Beijing with President Trump. US approved H200 sales to major Chinese tech firms.",
+      "last_updated": "2026-05-24"
     },
     {
       "name": "Huawei",
-      "latest_info": "Launched 950PR AI chip with strong local orders from ByteDance and Alibaba. Global ICT Competition finals June 2-5, 2026 in Shenzhen.",
-      "last_updated": "2026-05-23"
+      "latest_info": "Launched 950PR AI chip with better CUDA compatibility; strong orders from ByteDance and Alibaba. Global ICT Competition finals June 2-5, 2026 in Shenzhen.",
+      "last_updated": "2026-05-24"
     },
     {
       "name": "ByteDance",
-      "latest_info": "Planning massive $5.6 billion purchase of Huawei AI chips in 2026. Investing over $30 billion in AI infrastructure.",
-      "last_updated": "2026-05-23"
+      "latest_info": "Investing over $30 billion in AI infrastructure. Preparing orders for Huawei's newest Ascend 950PR processors to bypass supply restrictions.",
+      "last_updated": "2026-05-24"
     },
     {
       "name": "Alibaba",
-      "latest_info": "Planning to order Huawei 950PR chips; also approved for newly licensed Nvidia H200 chips. Expanding cloud capabilities across Asia.",
-      "last_updated": "2026-05-23"
+      "latest_info": "Planning to utilize Huawei's 950PR chips while also receiving newly licensed Nvidia H200 chips. Expanding cloud computing data centers across Asia for localized GenAI.",
+      "last_updated": "2026-05-24"
     }
   ]
 }
