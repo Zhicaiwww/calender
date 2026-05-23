@@ -84,6 +84,13 @@
     "competitor": "AMD Radeon RX 8000"
   },
   {
+    "company": "NVIDIA",
+    "layer": "Infrastructure/Compute",
+    "product": "H200 (China-spec)",
+    "details": "US Commerce Department approved exports of H200 AI chips to around 10 Chinese firms (including Alibaba, Tencent, ByteDance) in May 2024.",
+    "competitor": "Huawei Ascend 950PR"
+  },
+  {
     "company": "Huawei",
     "layer": "Terminal Device",
     "product": "Mate 80 Air",
@@ -107,8 +114,8 @@
   {
     "company": "Huawei",
     "layer": "Infrastructure/Compute",
-    "product": "Ascend 950",
-    "details": "Next-gen AI chip with soaring demand after DeepSeek V4 launch, reported April 2026. Domestic revenue expected to hit $12B in 2026.",
+    "product": "Ascend 950PR",
+    "details": "Next-gen AI chip designed to rival NVIDIA. Passed testing at ByteDance and Alibaba in March 2026; major orders planned. Expected to drive $12B revenue in 2026.",
     "competitor": "NVIDIA H200/B200"
   },
   {
@@ -159,5 +166,12 @@
     "product": "TikTok World '26 Showcase",
     "details": "Hosted in May 2026, focused on AI-powered advertising and vertical video innovations.",
     "competitor": "Google YouTube, Meta Reels"
+  },
+  {
+    "company": "Zhongxing (ZTE)",
+    "layer": "Terminal Device",
+    "product": "G5 Pro 5G CPE 高性能版",
+    "details": "High-performance 5G mobile router, priced at 2099 yuan. Launching May 28, 2026.",
+    "competitor": "Huawei 5G CPE, TP-Link"
   }
 ]
