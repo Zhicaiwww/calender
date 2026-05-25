@@ -1,51 +1,58 @@
 [
   {
     "company": "Apple",
-    "product": "WWDC 2026 / iOS 27 / iPadOS 27 / macOS 27",
+    "product": "iOS 27 / WWDC 2026",
     "status": "Confirmed / Keynote Scheduled",
-    "details": "Apple officially set WWDC 2026 for June 8-12. Keynote at 10 AM PT. Features iOS 27, iPadOS 27, and macOS 27 with major Siri overhauls. Tim Cook visited Beijing for trade negotiations.",
-    "date": "2026-05-25"
+    "details": "iOS 27 to support Google Cast and third-party AirPlay alternatives for EU DMA compliance. WWDC 2026 set for June 8-12 with major Siri AI overhauls.",
+    "date": "2026-05-26"
   },
   {
     "company": "NVIDIA",
     "product": "GTC Taipei 2026 / H200 China Sales",
-    "status": "Event Preparation / Compliance",
-    "details": "NVIDIA GTC AI conference in Taipei (June 1-4) during COMPUTEX. Focus on physical and agentic AI. U.S. approved H200 sales to major Chinese firms (Alibaba, ByteDance). Jensen Huang visited Beijing.",
-    "date": "2026-05-25"
+    "status": "Event Preparation / Uncertainty",
+    "details": "NVIDIA GTC AI conference in Taipei (June 1-4) during COMPUTEX. H200 sales prospects in China remain uncertain despite Jensen Huang's recent visit to Beijing.",
+    "date": "2026-05-26"
   },
   {
     "company": "Huawei",
-    "product": "Ascend 950PR AI Chip / Global AIDC Industry Summit",
-    "status": "Successful Production / Strategy Launch",
-    "details": "Huawei successfully produced Ascend 950PR with better CUDA compatibility. Launched grid-interactive AIDC strategy in Dongguan. Huawei ICT Competition final in Shenzhen (June 2-5).",
-    "date": "2026-05-25"
+    "product": "1.4nm Equivalent Scaling Law / Ascend 950PR",
+    "status": "Breakthrough / Production",
+    "details": "Huawei unveiled a new scaling law and tech aiming for 1.4nm equivalent chips by 2031, narrowing the gap with TSMC and Samsung. Ascend 950PR production continues with improved compatibility.",
+    "date": "2026-05-26"
   },
   {
     "company": "ByteDance",
-    "product": "Huawei Ascend 950PR Orders / AI Infrastructure Investment",
-    "status": "Procurement Planning / Expanding",
-    "details": "ByteDance planning to order Huawei's Ascend 950PR chips to bypass supply restrictions. Announced $30 billion investment into AI infrastructure and computing systems.",
-    "date": "2026-05-25"
+    "product": "Seedance 2.0 AI Films / AI Infrastructure",
+    "status": "Showcased / Expanding",
+    "details": "ByteDance's Seedance 2.0 AI video model produced feature-length films showcased at Cannes. Planning $30 billion investment in AI infrastructure and computing systems.",
+    "date": "2026-05-26"
   },
   {
     "company": "Alibaba",
-    "product": "Ascend 950PR / NVIDIA H200 / Cloud Expansion",
-    "status": "Multi-vendor Sourcing / Growth",
-    "details": "Alibaba planning to utilize Huawei 950PR chips alongside newly licensed NVIDIA H200 chips. Expanding cloud data centers across Asia for localized generative AI.",
-    "date": "2026-05-25"
+    "product": "Qwen AI / Pakistan Deal / AI Revenue Forecast",
+    "status": "Commercialisation / Strategy",
+    "details": "Alibaba signed a sweeping deal with Pakistan for Qwen AI integration. Forecasts 30 billion yuan AI revenue in 2026, with AI agents driving over half of cloud sales.",
+    "date": "2026-05-26"
   },
   {
-    "company": "OPPO",
-    "product": "OPPO Pad 6 / Reno16",
-    "status": "Launch Day / Leaked",
-    "details": "OPPO Pad 6 (Dimensity 9500s) launches May 25. Reno16 Pro specs leak (200MP gimbal cam).",
-    "date": "2026-05-25"
+    "company": "DeepSeek",
+    "product": "DeepSeek V4 Pro",
+    "status": "Price Cut Permanent",
+    "details": "DeepSeek V4 Pro tops global bang-for-buck rankings after making a 75% price cut permanent.",
+    "date": "2026-05-26"
+  },
+  {
+    "company": "Xiaomi",
+    "product": "AI Chips / EV Strategy",
+    "status": "Investment",
+    "details": "Xiaomi pouring billions into AI and custom chips to rival Apple and future-proof its hardware and EV empire.",
+    "date": "2026-05-26"
   },
   {
     "company": "Honor",
-    "product": "Robot Phone / WIN Turbo / 600 Series",
-    "status": "Showcased / Upcoming Launch",
-    "details": "World's first Robot Phone showcased. WIN Turbo and 600 series (8000mAh battery) launching May 29.",
-    "date": "2026-05-25"
+    "product": "600 Series / WIN Turbo",
+    "status": "Upcoming Launch",
+    "details": "Honor 600 series with 8000mAh battery and WIN Turbo technology launching May 29.",
+    "date": "2026-05-26"
   }
 ]
