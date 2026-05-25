@@ -1,29 +1,51 @@
-{
-  "companies": [
-    {
-      "name": "Apple",
-      "latest_info": "WWDC 2026 set for June 8-12, showcasing iOS 27, iPadOS 27, and macOS 27 with Siri overhauls. CEO Tim Cook recently joined the U.S. delegation to Beijing.",
-      "last_updated": "2026-05-24"
-    },
-    {
-      "name": "NVIDIA",
-      "latest_info": "GTC Taipei (alongside COMPUTEX) scheduled for June 1-4, 2026. CEO Jensen Huang visited Beijing with President Trump. US approved H200 sales to major Chinese tech firms.",
-      "last_updated": "2026-05-24"
-    },
-    {
-      "name": "Huawei",
-      "latest_info": "Launched 950PR AI chip with better CUDA compatibility; strong orders from ByteDance and Alibaba. Global ICT Competition finals June 2-5, 2026 in Shenzhen.",
-      "last_updated": "2026-05-24"
-    },
-    {
-      "name": "ByteDance",
-      "latest_info": "Investing over $30 billion in AI infrastructure. Preparing orders for Huawei's newest Ascend 950PR processors to bypass supply restrictions.",
-      "last_updated": "2026-05-24"
-    },
-    {
-      "name": "Alibaba",
-      "latest_info": "Planning to utilize Huawei's 950PR chips while also receiving newly licensed Nvidia H200 chips. Expanding cloud computing data centers across Asia for localized GenAI.",
-      "last_updated": "2026-05-24"
-    }
-  ]
-}
+[
+  {
+    "company": "Apple",
+    "product": "WWDC 2026 / iOS 27 / iPadOS 27 / macOS 27",
+    "status": "Confirmed / Keynote Scheduled",
+    "details": "Apple officially set WWDC 2026 for June 8-12. Keynote at 10 AM PT. Features iOS 27, iPadOS 27, and macOS 27 with major Siri overhauls. Tim Cook visited Beijing for trade negotiations.",
+    "date": "2026-05-25"
+  },
+  {
+    "company": "NVIDIA",
+    "product": "GTC Taipei 2026 / H200 China Sales",
+    "status": "Event Preparation / Compliance",
+    "details": "NVIDIA GTC AI conference in Taipei (June 1-4) during COMPUTEX. Focus on physical and agentic AI. U.S. approved H200 sales to major Chinese firms (Alibaba, ByteDance). Jensen Huang visited Beijing.",
+    "date": "2026-05-25"
+  },
+  {
+    "company": "Huawei",
+    "product": "Ascend 950PR AI Chip / Global AIDC Industry Summit",
+    "status": "Successful Production / Strategy Launch",
+    "details": "Huawei successfully produced Ascend 950PR with better CUDA compatibility. Launched grid-interactive AIDC strategy in Dongguan. Huawei ICT Competition final in Shenzhen (June 2-5).",
+    "date": "2026-05-25"
+  },
+  {
+    "company": "ByteDance",
+    "product": "Huawei Ascend 950PR Orders / AI Infrastructure Investment",
+    "status": "Procurement Planning / Expanding",
+    "details": "ByteDance planning to order Huawei's Ascend 950PR chips to bypass supply restrictions. Announced $30 billion investment into AI infrastructure and computing systems.",
+    "date": "2026-05-25"
+  },
+  {
+    "company": "Alibaba",
+    "product": "Ascend 950PR / NVIDIA H200 / Cloud Expansion",
+    "status": "Multi-vendor Sourcing / Growth",
+    "details": "Alibaba planning to utilize Huawei 950PR chips alongside newly licensed NVIDIA H200 chips. Expanding cloud data centers across Asia for localized generative AI.",
+    "date": "2026-05-25"
+  },
+  {
+    "company": "OPPO",
+    "product": "OPPO Pad 6 / Reno16",
+    "status": "Launch Day / Leaked",
+    "details": "OPPO Pad 6 (Dimensity 9500s) launches May 25. Reno16 Pro specs leak (200MP gimbal cam).",
+    "date": "2026-05-25"
+  },
+  {
+    "company": "Honor",
+    "product": "Robot Phone / WIN Turbo / 600 Series",
+    "status": "Showcased / Upcoming Launch",
+    "details": "World's first Robot Phone showcased. WIN Turbo and 600 series (8000mAh battery) launching May 29.",
+    "date": "2026-05-25"
+  }
+]
