@@ -1,58 +1,117 @@
-[
-  {
-    "company": "Apple",
-    "product": "iOS 27 / WWDC 2026",
-    "status": "Confirmed / Keynote Scheduled",
-    "details": "iOS 27 to support Google Cast and third-party AirPlay alternatives for EU DMA compliance. WWDC 2026 set for June 8-12 with major Siri AI overhauls.",
-    "date": "2026-05-26"
-  },
-  {
-    "company": "NVIDIA",
-    "product": "GTC Taipei 2026 / H200 China Sales",
-    "status": "Event Preparation / Uncertainty",
-    "details": "NVIDIA GTC AI conference in Taipei (June 1-4) during COMPUTEX. H200 sales prospects in China remain uncertain despite Jensen Huang's recent visit to Beijing.",
-    "date": "2026-05-26"
-  },
-  {
-    "company": "Huawei",
-    "product": "Chip Design Breakthrough / Ascend AI Expansion",
-    "status": "Active / Scaling",
-    "details": "Revealed chip design breakthroughs narrowing the gap with TSMC/Samsung. Expanding Ascend AI chip output (target: 750,000 units this year) as US export curbs impact competitors. Revenue expected to hit $12B in 2026.",
-    "date": "2026-05-26"
-  },
-  {
-    "company": "ByteDance",
-    "product": "AI Infrastructure / Huawei AI Adoption",
-    "status": "Expanding / Implementation",
-    "details": "Planning significant orders for Huawei's new AI chips alongside $30 billion investment in AI infrastructure. Seedance 2.0 AI video model showcased at Cannes.",
-    "date": "2026-05-26"
-  },
-  {
-    "company": "Alibaba",
-    "product": "New Inference Chip / Qwen AI Strategy",
-    "status": "Development / Active",
-    "details": "Developing a new AI chip focused on inferencing. Signed a sweeping deal with Pakistan for Qwen AI integration. Forecasts 30 billion yuan AI revenue in 2026.",
-    "date": "2026-05-26"
-  },
-  {
-    "company": "DeepSeek",
-    "product": "DeepSeek V4 Pro",
-    "status": "Price Cut Permanent",
-    "details": "DeepSeek V4 Pro tops global bang-for-buck rankings after making a 75% price cut permanent.",
-    "date": "2026-05-26"
-  },
-  {
-    "company": "Xiaomi",
-    "product": "AI Chips / EV Strategy",
-    "status": "Investment",
-    "details": "Xiaomi pouring billions into AI and custom chips to rival Apple and future-proof its hardware and EV empire.",
-    "date": "2026-05-26"
-  },
-  {
-    "company": "Honor",
-    "product": "600 Series / WIN Turbo",
-    "status": "Upcoming Launch",
-    "details": "Honor 600 series with 8000mAh battery and WIN Turbo technology launching May 29.",
-    "date": "2026-05-26"
-  }
-]
+{
+  "products": [
+    {
+      "company": "Apple",
+      "product": "iPhone 17 Pro Max",
+      "status": "In Market (US Version)",
+      "date": "2026-05-25",
+      "source": "IT Home News",
+      "news": "美版 2TB 售价 9999 元，3 期免息"
+    },
+    {
+      "company": "Apple",
+      "product": "iOS 27",
+      "status": "Upcoming",
+      "date": "2026-06-09",
+      "source": "WWDC 2026 Leak",
+      "news": "WWDC26 将公布，大幅提升 AI 图像模型画质"
+    },
+    {
+      "company": "Apple",
+      "product": "nova 16 系列 (华为合作?)",
+      "status": "Upcoming",
+      "date": "2026-06-01",
+      "source": "IT Home",
+      "news": "定档 6 月 1 日发布"
+    },
+    {
+      "company": "NVIDIA",
+      "product": "NVIDIA Driver 610.47",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "NVIDIA",
+      "news": "版本号跃升，更新 610.47 版本"
+    },
+    {
+      "company": "Huawei",
+      "product": "问界 M9",
+      "status": "Active",
+      "date": "2026-05-25",
+      "source": "Huawei News",
+      "news": "入选中国制造“十四五”成就展，唯一新能源汽车"
+    },
+    {
+      "company": "Huawei",
+      "product": "nova 16 系列",
+      "status": "Upcoming",
+      "date": "2026-06-01",
+      "source": "Huawei",
+      "news": "定档 6 月 1 日发布，横向双圆镜组设计"
+    },
+    {
+      "company": "Huawei",
+      "product": "MatePad Pro Max",
+      "status": "Upcoming",
+      "date": "2026-06-01",
+      "source": "Huawei",
+      "news": "与 nova 16 系列同台发布"
+    },
+    {
+      "company": "Xiaomi",
+      "product": "Xiaomi Auto World Model",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "Xiaomi Auto",
+      "news": "世界模型全新框架，重建 + 生成一体化"
+    },
+    {
+      "company": "Xiaomi",
+      "product": "小米 2026 Q1 财报",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "Xiaomi",
+      "news": "营收 991 亿，经营利润大增"
+    },
+    {
+      "company": "OPPO",
+      "product": "Reno16 Pro",
+      "status": "Released/Available",
+      "date": "2026-05-25",
+      "source": "OPPO",
+      "news": "怦然星动图赏，3D 悬浮星球设计"
+    },
+    {
+      "company": "OPPO",
+      "product": "Pad 6",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "OPPO",
+      "news": "天玑 9500s + 3K 柔光屏发布"
+    },
+    {
+      "company": "Honor",
+      "product": "荣耀 600 系列",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "Honor",
+      "news": "首发全焦段 4K Live"
+    },
+    {
+      "company": "Honor",
+      "product": "荣耀平板 20",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "Honor",
+      "news": "12.1 英寸 3K 全彩类纸屏发布"
+    },
+    {
+      "company": "Alibaba",
+      "product": "朴朴超市竞购 (传闻)",
+      "status": "Rumor",
+      "date": "2026-05-25",
+      "source": "Industry News",
+      "news": "阿里、京东、美团竞购朴朴超市"
+    }
+  ],
+  "last_updated": "2026-05-26 22:25"
+}
