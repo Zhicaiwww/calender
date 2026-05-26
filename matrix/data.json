@@ -14,31 +14,31 @@
       "status": "Upcoming",
       "date": "2026-06-09",
       "source": "WWDC 2026 Leak",
-      "news": "WWDC26 将公布，大幅提升 AI 图像模型画质"
+      "news": "WWDC26 将公布，大幅提升 AI 图像模型畫質"
     },
     {
       "company": "Apple",
-      "product": "nova 16 系列 (华为合作?)",
+      "product": "WWDC 2026",
       "status": "Upcoming",
-      "date": "2026-06-01",
-      "source": "IT Home",
-      "news": "定档 6 月 1 日发布"
-    },
-    {
-      "company": "NVIDIA",
-      "product": "NVIDIA Driver 610.47",
-      "status": "Released",
-      "date": "2026-05-25",
-      "source": "NVIDIA",
-      "news": "版本号跃升，更新 610.47 版本"
+      "date": "2026-06-08",
+      "source": "Apple",
+      "news": "Worldwide Developers Conference scheduled for June 8-12, 2026."
     },
     {
       "company": "Huawei",
-      "product": "问界 M9",
-      "status": "Active",
-      "date": "2026-05-25",
-      "source": "Huawei News",
-      "news": "入选中国制造“十四五”成就展，唯一新能源汽车"
+      "product": "Huawei ICT Competition 2025–2026 Global Final",
+      "status": "Upcoming",
+      "date": "2026-06-02",
+      "source": "Huawei",
+      "news": "Held in Shenzhen, China from June 2 to June 5, 2026."
+    },
+    {
+      "company": "Huawei",
+      "product": "HUAWEI CLOUD INSPIRE 2026",
+      "status": "Upcoming",
+      "date": "2026-06-05",
+      "source": "Huawei",
+      "news": "Held in Shanghai, China from June 5 to June 6, 2026."
     },
     {
       "company": "Huawei",
@@ -55,6 +55,38 @@
       "date": "2026-06-01",
       "source": "Huawei",
       "news": "与 nova 16 系列同台发布"
+    },
+    {
+      "company": "NVIDIA",
+      "product": "NVIDIA Driver 610.47",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "NVIDIA",
+      "news": "版本号跃升，更新 610.47 版本"
+    },
+    {
+      "company": "NVIDIA",
+      "product": "TACC Open Hackathon",
+      "status": "Upcoming",
+      "date": "2026-05-20",
+      "source": "NVIDIA",
+      "news": "Hybrid Event from May 20 to May 29, 2026."
+    },
+    {
+      "company": "NVIDIA",
+      "product": "NVIDIA at IEEE ICC 2026",
+      "status": "Upcoming",
+      "date": "2026-05-24",
+      "source": "NVIDIA",
+      "news": "Held in Glasgow, UK from May 24 to May 28, 2026."
+    },
+    {
+      "company": "NVIDIA",
+      "product": "Princeton Open Hackathon",
+      "status": "Upcoming",
+      "date": "2026-05-26",
+      "source": "NVIDIA",
+      "news": "Hybrid Event from May 26 to June 4, 2026."
     },
     {
       "company": "Xiaomi",
@@ -113,5 +145,5 @@
       "news": "阿里、京东、美团竞购朴朴超市"
     }
   ],
-  "last_updated": "2026-05-26 22:25"
+  "last_updated": "2026-05-27 04:35"
 }
