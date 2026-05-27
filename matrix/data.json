@@ -138,12 +138,28 @@
     },
     {
       "company": "Alibaba",
-      "product": "朴朴超市竞购 (传闻)",
-      "status": "Rumor",
-      "date": "2026-05-25",
-      "source": "Industry News",
-      "news": "阿里、京东、美团竞购朴朴超市"
+      "product": "Zhenwu M890 AI Chip",
+      "status": "Announced",
+      "date": "2026-05-20",
+      "source": "Reuters",
+      "news": "Alibaba unveils Zhenwu M890 AI chip, three times faster than previous generation."
+    },
+    {
+      "company": "Huawei",
+      "product": "Ascend 950PR AI Chip",
+      "status": "Announced",
+      "date": "2026-03-27",
+      "source": "Reuters",
+      "news": "Huawei's new AI chip Ascend 950PR receives positive feedback from ByteDance and Alibaba."
+    },
+    {
+      "company": "ByteDance",
+      "product": "DeepSeek V4",
+      "status": "Released",
+      "date": "2026-04-29",
+      "source": "Reuters",
+      "news": "Surge in demand for Huawei AI chips follows the release of DeepSeek V4."
     }
   ],
-  "last_updated": "2026-05-27 04:35"
+  "last_updated": "2026-05-27 10:45"
 }
