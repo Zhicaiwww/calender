@@ -1,6 +1,94 @@
 {
   "products": [
     {
+      "company": "BYD",
+      "product": "璇玑 A3 智驾芯片",
+      "status": "Released",
+      "date": "2026-05-28",
+      "source": "IT Home",
+      "news": "中国首款自研 4nm 智驾芯片，支持 L3/L4 级自动驾驶。"
+    },
+    {
+      "company": "Huawei",
+      "product": "麒麟手机芯片 (2026 秋季)",
+      "status": "Announced",
+      "date": "2026-05-28",
+      "source": "IT Home",
+      "news": "何庭波专访：性能相比去年将实现“跳跃性”提升。"
+    },
+    {
+      "company": "BYD",
+      "product": "宋 Ultra DM-i",
+      "status": "Released",
+      "date": "2026-05-28",
+      "source": "IT Home",
+      "news": "正式上市，售价 12.99 万元起。"
+    },
+    {
+      "company": "BYD",
+      "product": "迪迪虾 (超级智能体)",
+      "status": "Released",
+      "date": "2026-05-28",
+      "source": "IT Home",
+      "news": "随宋 Ultra DM-i 发布，主打车载 AI 交互。"
+    },
+    {
+      "company": "Apple",
+      "product": "iOS 27 (Siri)",
+      "status": "Upcoming",
+      "date": "2026-05-28",
+      "source": "IT Home Leak",
+      "news": "全新 Siri 界面示意图曝光，包含深色主题与持续对话优化。"
+    },
+    {
+      "company": "Xiaomi",
+      "product": "小米 17T / 17T Pro",
+      "status": "Released (Global)",
+      "date": "2026-05-28",
+      "source": "IT Home",
+      "news": "海外正式发布，配备 7000mAh 超大电池。"
+    },
+    {
+      "company": "Huawei",
+      "product": "nova 16 系列",
+      "status": "Upcoming",
+      "date": "2026-06-01",
+      "source": "IT Home",
+      "news": "官宣定档 6 月 1 日发布。"
+    },
+    {
+      "company": "Huawei",
+      "product": "MatePad Pro Max",
+      "status": "Upcoming",
+      "date": "2026-06-01",
+      "source": "IT Home",
+      "news": "官宣定档 6 月 1 日发布。"
+    },
+    {
+      "company": "Huawei",
+      "product": "尚界 H5 (改款)",
+      "status": "Pre-sale",
+      "date": "2026-05-28",
+      "source": "IT Home",
+      "news": "鸿蒙智行新车开启预售，16.98 万元起。"
+    },
+    {
+      "company": "Huawei",
+      "product": "问界 M9 (全新一代)",
+      "status": "Released",
+      "date": "2026-05-28",
+      "source": "IT Home",
+      "news": "上市 24 小时大定突破 2 万台。"
+    },
+    {
+      "company": "ByteDance",
+      "product": "豆包 (高考 AI 工具)",
+      "status": "Announced",
+      "date": "2026-05-28",
+      "source": "IT Home",
+      "news": "回应高考 AI 工具相关热议及优化进展。"
+    },
+    {
       "company": "Apple",
       "product": "iPhone 17 Pro Max",
       "status": "In Market (US Version)",
@@ -10,27 +98,11 @@
     },
     {
       "company": "Apple",
-      "product": "iOS 27",
-      "status": "Upcoming",
-      "date": "2026-06-09",
-      "source": "WWDC 2026 Leak",
-      "news": "WWDC26 将公布，大幅提升 AI 图像模型畫質；全新 Siri 界面曝光，深色主题 + 持续对话"
-    },
-    {
-      "company": "Apple",
       "product": "WWDC 2026",
       "status": "Upcoming",
       "date": "2026-06-08",
       "source": "Apple",
       "news": "Worldwide Developers Conference scheduled for June 8-12, 2026."
-    },
-    {
-      "company": "Apple",
-      "product": "iPhone Fold",
-      "status": "Upcoming",
-      "date": "2026-05-27",
-      "source": "IT Home",
-      "news": "折叠屏手机首批第三方保护壳亮相"
     },
     {
       "company": "Huawei",
@@ -49,38 +121,6 @@
       "news": "Held in Shanghai, China from June 5 to June 6, 2026."
     },
     {
-      "company": "Huawei",
-      "product": "nova 16 系列",
-      "status": "Upcoming",
-      "date": "2026-06-01",
-      "source": "Huawei",
-      "news": "定档 6 月 1 日发布，横向双圆镜组设计；何刚宣布时代少年团为代言人"
-    },
-    {
-      "company": "Huawei",
-      "product": "MatePad Pro Max",
-      "status": "Upcoming",
-      "date": "2026-06-01",
-      "source": "Huawei",
-      "news": "与 nova 16 系列同台发布"
-    },
-    {
-      "company": "Huawei",
-      "product": "鸿蒙智家",
-      "status": "Upcoming",
-      "date": "2026-06-01",
-      "source": "Huawei",
-      "news": "新一代官宣 6 月 1 日发布，主打全生态 AI 进化"
-    },
-    {
-      "company": "Huawei",
-      "product": "麒麟手机芯片 (2026 秋季)",
-      "status": "Announced",
-      "date": "2026-05-27",
-      "source": "People's Daily / IT Home",
-      "news": "何庭波透露性能相比去年是“跳跃性”提升，内部成立“莫邪”工作小组"
-    },
-    {
       "company": "NVIDIA",
       "product": "NVIDIA Driver 610.47",
       "status": "Released",
@@ -90,11 +130,27 @@
     },
     {
       "company": "NVIDIA",
-      "product": "NVIDIA H200",
-      "status": "Export Approved",
-      "date": "2026-05-14",
-      "source": "Reuters",
-      "news": "US clears sales to 10 China firms including Alibaba, Tencent, ByteDance; deliveries stalled due to domestic vetting"
+      "product": "TACC Open Hackathon",
+      "status": "Upcoming",
+      "date": "2026-05-20",
+      "source": "NVIDIA",
+      "news": "Hybrid Event from May 20 to May 29, 2026."
+    },
+    {
+      "company": "NVIDIA",
+      "product": "NVIDIA at IEEE ICC 2026",
+      "status": "Upcoming",
+      "date": "2026-05-24",
+      "source": "NVIDIA",
+      "news": "Held in Glasgow, UK from May 24 to May 28, 2026."
+    },
+    {
+      "company": "NVIDIA",
+      "product": "Princeton Open Hackathon",
+      "status": "Upcoming",
+      "date": "2026-05-26",
+      "source": "NVIDIA",
+      "news": "Hybrid Event from May 26 to June 4, 2026."
     },
     {
       "company": "Xiaomi",
@@ -106,52 +162,68 @@
     },
     {
       "company": "Xiaomi",
-      "product": "YU7 GT",
-      "status": "Delivering",
-      "date": "2026-05-28",
-      "source": "Xiaomi Auto",
-      "news": "开启首批车主交付；制动系统与 SU7 Ultra 相同"
+      "product": "小米 2026 Q1 财报",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "Xiaomi",
+      "news": "营收 991 亿，经营利润大增"
     },
     {
-      "company": "Xiaomi",
-      "product": "小米 17T/Pro",
-      "status": "Released (Global)",
-      "date": "2026-05-28",
-      "source": "IT Home",
-      "news": "海外发布，搭载 7000mAh 电池，749 欧元起"
+      "company": "OPPO",
+      "product": "Reno16 Pro",
+      "status": "Released/Available",
+      "date": "2026-05-25",
+      "source": "OPPO",
+      "news": "怦然星动图赏，3D 悬浮星球设计"
+    },
+    {
+      "company": "OPPO",
+      "product": "Pad 6",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "OPPO",
+      "news": "天玑 9500s + 3K 柔光屏发布"
+    },
+    {
+      "company": "Honor",
+      "product": "荣耀 600 系列",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "Honor",
+      "news": "首发全焦段 4K Live"
+    },
+    {
+      "company": "Honor",
+      "product": "荣耀平板 20",
+      "status": "Released",
+      "date": "2026-05-25",
+      "source": "Honor",
+      "news": "12.1 英寸 3K 全彩类纸屏发布"
     },
     {
       "company": "Alibaba",
       "product": "Zhenwu M890 AI Chip",
       "status": "Announced",
-      "date": "2026-05-19",
+      "date": "2026-05-20",
       "source": "Reuters",
-      "news": "Alibaba unveils Zhenwu M890 AI chip, three times faster than previous generation; provision for domestic 'Plan B'"
+      "news": "Alibaba unveils Zhenwu M890 AI chip, three times faster than previous generation."
+    },
+    {
+      "company": "Huawei",
+      "product": "Ascend 950PR AI Chip",
+      "status": "Announced",
+      "date": "2026-03-27",
+      "source": "Reuters",
+      "news": "Huawei's new AI chip Ascend 950PR receives positive feedback from ByteDance and Alibaba."
     },
     {
       "company": "ByteDance",
-      "product": "Custom AI CPU/ASIC",
-      "status": "In Development",
-      "date": "2026-05-28",
-      "source": "Reuters / Asia Tech Review",
-      "news": "ByteDance developing custom chips to support AI rollout; plans to hike AI spending to $70 billion in 2026"
-    },
-    {
-      "company": "BYD",
-      "product": "璇玑 A3 智驾芯片",
+      "product": "DeepSeek V4",
       "status": "Released",
-      "date": "2026-05-28",
-      "source": "IT Home",
-      "news": "中国首款 4nm 自研智驾芯片，支持 L3/L4 自动驾驶"
-    },
-    {
-      "company": "BYD",
-      "product": "宋 Ultra DM-i",
-      "status": "Released",
-      "date": "2026-05-28",
-      "source": "IT Home",
-      "news": "上市售 12.99 万元起，搭载“迪迪虾”超级智能体"
+      "date": "2026-04-29",
+      "source": "Reuters",
+      "news": "Surge in demand for Huawei AI chips follows the release of DeepSeek V4."
     }
   ],
-  "last_updated": "2026-05-28 23:30"
+  "last_updated": "2026-05-28 23:25"
 }

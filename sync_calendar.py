@@ -93,6 +93,24 @@ def main():
             "description": "Apple 官宣北京时间 6 月 9 日凌晨 1 点举办 WWDC26 活动，公布 iOS 27 等动向。"
         },
         {
+            "summary": "华为 nova 16 系列 & MatePad Pro Max 发布会",
+            "start": "2026-06-01 14:30:00",
+            "end": "2026-06-01 16:30:00",
+            "description": "华为官宣定档 6 月 1 日发布 nova 16 系列及 MatePad Pro Max。"
+        },
+        {
+            "summary": "比亚迪宋 Ultra DM-i & 迪迪虾发布",
+            "start": "2026-05-28 19:30:00",
+            "end": "2026-05-28 21:30:00",
+            "description": "比亚迪宋 Ultra DM-i 正式上市，同步发布自研 4nm 智驾芯片璇玑 A3 及超级智能体“迪迪虾”。"
+        },
+        {
+            "summary": "小米 17T/Pro 海外发布会",
+            "start": "2026-05-28 21:00:00",
+            "end": "2026-05-28 23:00:00",
+            "description": "小米 17T / 17T Pro 海外正式发布，配备 7000mAh 超大电池。"
+        },
+        {
             "summary": "华为 3D 影像壁纸上线 (预计)",
             "start": "2026-06-15 10:00:00",
             "end": "2026-06-15 11:00:00",
