@@ -1,6 +1,62 @@
 {
   "products": [
     {
+      "company": "Apple",
+      "product": "Siri AI (Apple Intelligence)",
+      "status": "Announced",
+      "date": "2026-06-08",
+      "source": "WWDC 2026",
+      "news": "Overhauled conversational assistant on the new Apple Intelligence platform."
+    },
+    {
+      "company": "NVIDIA",
+      "product": "Vera Rubin Platform",
+      "status": "Announced",
+      "date": "2026-06-22",
+      "source": "NVIDIA Newsroom",
+      "news": "Next-gen scientific computing platform with 7 exaflops of AI compute."
+    },
+    {
+      "company": "NVIDIA",
+      "product": "RTX Spark",
+      "status": "Released",
+      "date": "2026-06-02",
+      "source": "Computex 2026",
+      "news": "Targeting Windows PCs for edge AI agent deployment."
+    },
+    {
+      "company": "ByteDance",
+      "product": "Seedance 2.5",
+      "status": "Announced",
+      "date": "2026-06-15",
+      "source": "The Next Web",
+      "news": "AI video model generating 4K 30s clips with 50 multimodal inputs."
+    },
+    {
+      "company": "Alibaba",
+      "product": "Robot-Focused AI Models",
+      "status": "Released",
+      "date": "2026-06-10",
+      "source": "Alibaba Press Room",
+      "news": "New suite of AI models designed specifically for machine-to-task capabilities."
+    },
+    {
+      "company": "Huawei",
+      "product": "EMUI June Security Update",
+      "status": "Released",
+      "date": "2026-06-18",
+      "source": "Huawei News",
+      "news": "Security and firmware updates for Mate X3 and Mate X7 foldables."
+    },
+    {
+      "company": "Huawei",
+      "product": "Watch Ultimate 2 / Watch 5 Upgrades",
+      "status": "Released",
+      "date": "2026-06-20",
+      "source": "Huawei News",
+      "news": "New HarmonyOS upgrades for wearables."
+    },
+    {
       "company": "BYD",
       "product": "璇玑 A3 智驾芯片",
       "status": "Released",
@@ -225,5 +281,5 @@
       "news": "Surge in demand for Huawei AI chips follows the release of DeepSeek V4."
     }
   ],
-  "last_updated": "2026-05-28 23:25"
+  "last_updated": "2026-06-25 09:44"
 }
